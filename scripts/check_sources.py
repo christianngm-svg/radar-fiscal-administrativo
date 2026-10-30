@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Radar editorial gratuito. Solo publica registros oficiales recuperados y con URL verificable."""
+"""Radar editorial gratuito. Solo publica registros oficiales recuperados y con URL verificable. v1."""
 import json, os, re, html, urllib.request
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
