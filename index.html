@@ -38,7 +38,7 @@
   <div class="brand">GMD Abogados</div>
   <h1>Radar Fiscal Administrativo</h1>
   <p class="subtitle">Seguimiento de disposiciones oficiales y criterios jurisdiccionales relevantes en materia fiscal y administrativa.</p>
-  <div class="header-actions"><div class="total"><strong id="total">0</strong><span>publicaciones y criterios relevantes<br><small>en el periodo consultado</small></span></div><a class="refresh" href="https://github.com/christianngm-svg/radar-fiscal-administrativo/actions/workflows/check-sources.yml" target="_blank" rel="noopener noreferrer">↻ Actualizar</a><span class="refresh-note">Abre la ejecución manual del radar en GitHub.</span></div>
+  <div class="header-actions"><div class="total"><strong id="total">0</strong><span>publicaciones y criterios relevantes<br><small>en el periodo consultado</small></span></div><a class="refresh" href="https://github.com/christianngm-svg/radar-fiscal-administrativo/actions/workflows/check-sources.yml" target="_blank" rel="noopener noreferrer">↻ Actualizar</a><span class="refresh-note">En GitHub, inicia sesión y pulsa “Run workflow” para consultar ahora.</span></div>
 </header>
 <main>
   <div class="meta"><span id="period">Consulta de información</span><span id="updated">Última actualización: pendiente</span><span id="sources">Fuentes: pendientes de verificación</span></div>
@@ -56,11 +56,17 @@
 <footer>Radar público de consulta. La selección y síntesis no sustituyen la revisión de la publicación oficial.</footer>
 <script>
 (async()=>{
-  const empty=(title,detail)=>'<div class="empty"><strong>'+title+'</strong>'+detail+'</div>';
+  const esc=(v)=>String(v??'').replace(/[&<>"']/g,ch=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
+  const empty=(title,detail)=>'<div class="empty"><strong>'+esc(title)+'</strong>'+esc(detail)+'</div>';
   const render=(id,items,noneTitle,noneText)=>{
     const root=document.getElementById(id);
     if(!Array.isArray(items)||!items.length){root.innerHTML=empty(noneTitle,noneText);return 0}
-    root.innerHTML=items.map(x=>'<article class="item"><span class="tag">'+(x.type||'Actualización')+'</span><h3>'+x.headline+'</h3><p>'+x.summary+'</p><a href="'+x.url+'" target="_blank" rel="noopener noreferrer">Consultar fuente oficial ↗</a></article>').join('');
+    root.innerHTML=items.map(x=>{
+      const url=String(x.url||'');
+      const safeUrl=/^https:\/\/(sidof\.segob\.gob\.mx|sjf2?\.scjn\.gob\.mx)\//i.test(url)?url:'#';
+      const tag=Array.isArray(x.topics)?x.topics.join(' · '):(x.source||'Actualización');
+      return '<article class="item"><span class="tag">'+esc(tag)+'</span><h3>'+esc(x.headline||x.title||'Publicación oficial')+'</h3><p>'+esc(x.summary||'Consulta el documento oficial.')+'</p><a href="'+esc(safeUrl)+'" target="_blank" rel="noopener noreferrer">Consultar fuente oficial ↗</a></article>';
+    }).join('');
     return items.length;
   };
   try{
