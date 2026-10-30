@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Radar Fiscal Administrativo de GMD Abogados">
+  <title>Radar Fiscal Administrativo | GMD Abogados</title>
+  <style>
+    :root{--navy:#25364c;--sand:#ccc0a3;--ink:#1e293b;--muted:#64748b;--line:#e5e7eb;--paper:#f7f7f5;--white:#fff}
+    *{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:15px/1.55 Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}
+    header{background:var(--navy);color:white;padding:34px max(22px,calc((100vw - 1120px)/2)) 30px}
+    .brand{font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:#ddd3bd;font-weight:700}
+    h1{font-size:clamp(27px,4vw,42px);line-height:1.1;margin:12px 0 8px;font-weight:650}
+    .subtitle{color:#d7dce3;margin:0;max-width:720px}
+    .total{display:inline-flex;align-items:center;gap:12px;margin-top:24px;padding:10px 15px;border:1px solid #657286;border-radius:12px}
+    .total strong{font-size:28px;color:#fff;line-height:1}
+    main{max-width:1120px;margin:28px auto;padding:0 22px 60px}
+    .meta{display:flex;flex-wrap:wrap;justify-content:space-between;gap:8px;color:var(--muted);font-size:13px;margin-bottom:18px}
+    .sections{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+    .panel{background:var(--white);border:1px solid var(--line);border-radius:16px;padding:22px;min-height:300px;box-shadow:0 3px 14px #0f172a08}
+    .panel-head{display:flex;justify-content:space-between;align-items:flex-start;gap:14px;border-bottom:1px solid var(--line);padding-bottom:16px}
+    h2{margin:0;color:var(--navy);font-size:21px}
+    .desc{margin:4px 0 0;color:var(--muted);font-size:13px}
+    .count{min-width:44px;height:44px;border-radius:12px;background:#f0eee8;color:var(--navy);display:grid;place-items:center;font-size:20px;font-weight:700}
+    .empty{margin-top:24px;padding:18px;border:1px dashed #cbd5e1;border-radius:12px;color:var(--muted);text-align:center}
+    .empty strong{display:block;color:var(--ink);font-size:15px;margin-bottom:4px}
+    .item{padding:18px 0;border-bottom:1px solid var(--line)}.item:last-child{border:0}
+    .item h3{font-size:16px;line-height:1.35;margin:0 0 8px;color:var(--navy)}
+    .item p{margin:0 0 10px;color:#475569}
+    .item a{color:#536b85;font-weight:650;text-decoration:none}.item a:hover{text-decoration:underline}
+    .tag{display:inline-block;font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:#786b4e;background:#f3f0e8;border-radius:5px;padding:3px 7px;margin-bottom:8px}
+    footer{max-width:1120px;margin:auto;padding:0 22px 30px;color:#94a3b8;font-size:12px}
+    @media(max-width:760px){.sections{grid-template-columns:1fr}.panel{min-height:220px}}
+  </style>
+</head>
+<body>
+<header>
+  <div class="brand">GMD Abogados</div>
+  <h1>Radar Fiscal Administrativo</h1>
+  <p class="subtitle">Seguimiento de disposiciones oficiales y criterios jurisdiccionales relevantes en materia fiscal y administrativa.</p>
+  <div class="total"><strong id="total">0</strong><span>publicaciones y criterios relevantes<br><small>en el periodo consultado</small></span></div>
+</header>
+<main>
+  <div class="meta"><span id="period">Consulta de información</span><span id="updated">Última actualización: pendiente</span></div>
+  <div class="sections">
+    <section class="panel" aria-labelledby="dof-title">
+      <div class="panel-head"><div><h2 id="dof-title">Diario Oficial de la Federación</h2><p class="desc">Disposiciones fiscales y administrativas</p></div><div class="count" id="dof-count">0</div></div>
+      <div id="dof-items"><div class="empty"><strong>Sin publicaciones relevantes</strong>El radar aún no ha procesado publicaciones.</div></div>
+    </section>
+    <section class="panel" aria-labelledby="sjf-title">
+      <div class="panel-head"><div><h2 id="sjf-title">Semanario Judicial de la Federación</h2><p class="desc">Tesis y jurisprudencias de interés práctico</p></div><div class="count" id="sjf-count">0</div></div>
+      <div id="sjf-items"><div class="empty"><strong>Sin criterios registrados</strong>El radar aún no ha procesado nuevos criterios.</div></div>
+    </section>
+  </div>
+</main>
+<footer>Herramienta privada de consulta interna. La selección y síntesis del radar no sustituyen la revisión de la publicación oficial.</footer>
+<script>
+(async()=>{
+  const empty=(title,detail)=>'<div class="empty"><strong>'+title+'</strong>'+detail+'</div>';
+  const render=(id,items,noneTitle,noneText)=>{
+    const root=document.getElementById(id);
+    if(!Array.isArray(items)||!items.length){root.innerHTML=empty(noneTitle,noneText);return 0}
+    root.innerHTML=items.map(x=>'<article class="item"><span class="tag">'+(x.type||'Actualización')+'</span><h3>'+x.headline+'</h3><p>'+x.summary+'</p><a href="'+x.url+'" target="_blank" rel="noopener noreferrer">Consultar fuente oficial ↗</a></article>').join('');
+    return items.length;
+  };
+  try{
+    const response=await fetch('./data/radar.json',{cache:'no-store'});
+    if(!response.ok)throw new Error('Aún no existe un reporte publicado');
+    const data=await response.json();
+    const d=render('dof-items',data.dof,'Sin publicaciones relevantes','No se identificaron disposiciones relevantes en el último corte.');
+    const s=render('sjf-items',data.sjf,'Sin criterios relevantes','No se identificaron nuevos criterios relevantes en el último corte.');
+    document.getElementById('dof-count').textContent=d;
+    document.getElementById('sjf-count').textContent=s;
+    document.getElementById('total').textContent=d+s;
+    document.getElementById('period').textContent=data.period||'Periodo consultado';
+    document.getElementById('updated').textContent='Última actualización: '+(data.updated_at||'sin registro');
+  }catch(e){
+    document.getElementById('period').textContent='Panel inicializado · pendiente de conexión con fuentes oficiales';
+  }
+})();
+</script>
+</body>
+</html>
