@@ -67,9 +67,15 @@
     const response=await fetch('./data/radar.json',{cache:'no-store'});
     if(!response.ok)throw new Error('Aún no existe un reporte publicado');
     const data=await response.json();
-    const processed=Boolean(data.updated_at);
-    const d=render('dof-items',data.dof,processed?'Sin publicaciones relevantes':'Pendiente de primer corte',processed?'No se identificaron disposiciones relevantes en el último corte.':'El sistema aún no ha completado una consulta verificable.');
-    const s=render('sjf-items',data.sjf,processed?'Sin criterios relevantes':'Pendiente de primer corte',processed?'No se identificaron nuevos criterios relevantes en el último corte.':'El sistema aún no ha completado una consulta verificable.');
+    const st=data.source_status||{};
+    const state=(key)=>st[key]==='success'
+      ? ['Sin publicaciones relevantes','La consulta oficial se completó y no se identificaron resultados relevantes.']
+      : st[key]==='unavailable'
+      ? ['Consulta no disponible','No fue posible completar la consulta oficial. Se conserva el último corte válido.']
+      : ['Pendiente de consulta','Todavía no existe un corte oficial validado para este apartado.'];
+    const ds=state('dof'), ss=state('sjf');
+    const d=render('dof-items',data.dof,ds[0],ds[1]);
+    const s=render('sjf-items',data.sjf,ss[0],ss[1]);
     document.getElementById('dof-count').textContent=d;
     document.getElementById('sjf-count').textContent=s;
     document.getElementById('total').textContent=d+s;
