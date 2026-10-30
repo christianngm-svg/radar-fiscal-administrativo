@@ -17,4 +17,8 @@ Panel privado de seguimiento de publicaciones del DOF y criterios del Semanario 
 Este repositorio es privado. No activar GitHub Pages ni publicar el panel en un hosting público sin implementar antes autenticación. El repositorio privado por sí solo no convierte una página desplegada en privada.
 
 ## Estado
-Interfaz inicial y estructura de datos creadas. La recolección, revisión sustantiva, generación de síntesis y actualización automática todavía requieren implementación y pruebas contra las fuentes oficiales.
+- Interfaz inicial y estructura de datos creadas.
+- Workflows de DOF y SJF añadidos con ejecución manual de validación; cron intencionalmente desactivado hasta verificar los contratos de los servicios oficiales.
+- Documentación de fuentes y despliegue privado añadida en `docs/`.
+- La recolección, revisión sustantiva, generación de síntesis y actualización automática aún no están activas.
+- La publicación privada requiere conectar Cloudflare Pages y proteger el hostname con Cloudflare Access.
