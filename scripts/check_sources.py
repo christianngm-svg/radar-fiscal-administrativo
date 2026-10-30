@@ -130,7 +130,7 @@ def main():
     data["checked_at"]=now.isoformat()
     data["updated_at"]=now.isoformat()
     data["period"]="Corte "+now.strftime("%d/%m/%Y %H:%M")+" (hora de Tijuana)"
-    with open(OUT,"w",encoding="utf-8") as f: json.dump(data,f,ensure_ascii=False,indent=2); f.write("\\n")
+    with open(OUT,"w",encoding="utf-8") as f: json.dump(data,f,ensure_ascii=False,indent=2); f.write("\n")
     print(json.dumps({"status":status,"errors":errors,"counts":{"dof":len(data.get("dof",[])),"sjf":len(data.get("sjf",[]))}},ensure_ascii=False))
     if errors: raise SystemExit(1)
 if __name__=="__main__": main()
