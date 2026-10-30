@@ -41,7 +41,7 @@
   <div class="total"><strong id="total">0</strong><span>publicaciones y criterios relevantes<br><small>en el periodo consultado</small></span></div>
 </header>
 <main>
-  <div class="meta"><span id="period">Consulta de información</span><span id="updated">Última actualización: pendiente</span></div>
+  <div class="meta"><span id="period">Consulta de información</span><span id="updated">Última actualización: pendiente</span><span id="sources">Fuentes: pendientes de verificación</span></div>
   <div class="sections">
     <section class="panel" aria-labelledby="dof-title">
       <div class="panel-head"><div><h2 id="dof-title">Diario Oficial de la Federación</h2><p class="desc">Disposiciones fiscales y administrativas</p></div><div class="count" id="dof-count">0</div></div>
@@ -74,7 +74,7 @@
     document.getElementById('sjf-count').textContent=s;
     document.getElementById('total').textContent=d+s;
     document.getElementById('period').textContent=data.period||'Periodo consultado';
-    document.getElementById('updated').textContent='Última actualización: '+(data.updated_at||'sin registro');
+    document.getElementById('updated').textContent='Última publicación: '+(data.updated_at||'sin registro');\n    const st=data.source_status||{};\n    const label=v=>v==='reachable_unparsed'?'conectada; datos por validar':v==='unavailable'?'sin conexión':'pendiente';\n    document.getElementById('sources').textContent='DOF: '+label(st.dof)+' · SJF: '+label(st.sjf);
   }catch(e){
     document.getElementById('period').textContent='No fue posible cargar el último reporte';
     document.getElementById('dof-items').innerHTML=empty('Consulta no disponible','No se pudo leer el archivo de datos.');
