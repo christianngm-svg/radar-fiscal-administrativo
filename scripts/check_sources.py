@@ -25,7 +25,7 @@ def request(url, data=None, headers=None):
         return b
 def clean(v):
     v=html.unescape(re.sub(r"<[^>]+>"," ",str(v or "")))
-    return re.sub(r"\\s+"," ",v).strip()
+    return re.sub(r"\s+"," ",v).strip()
 def walk(obj):
     if isinstance(obj,dict):
         yield obj
@@ -51,8 +51,14 @@ def dof_cut(day):
         if code and title:
             candidates.append((str(code),clean(title),obj))
     # El endpoint de notas es la fuente primaria; si el esquema cambia, no se declara un corte vacío.
-    if not candidates and payload.get("ListaNotas") not in ([],None):
-        raise RuntimeError("Respuesta SIDOF sin campos de nota reconocibles; se conserva el último corte.")
+    if not candidates:
+        # No declarar "sin novedades" ante un esquema desconocido o una respuesta vacía ambigua.
+        known_empty = any(k in payload for k in ("ListaNotas", "listaNotas", "notas", "Notas"))
+        if not known_empty:
+            raise RuntimeError("Respuesta SIDOF sin estructura de notas verificable; se conserva el último corte.")
+        listed = next((payload.get(k) for k in ("ListaNotas", "listaNotas", "notas", "Notas") if k in payload), None)
+        if listed not in ([], None):
+            raise RuntimeError("SIDOF devolvió notas con un esquema no reconocido; se conserva el último corte.")
     out=[]
     seen=set()
     for code,title,obj in candidates:
