@@ -12,7 +12,7 @@
     .brand{font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:#ddd3bd;font-weight:700}
     h1{font-size:clamp(27px,4vw,42px);line-height:1.1;margin:12px 0 8px;font-weight:650}
     .subtitle{color:#d7dce3;margin:0;max-width:720px}
-    .total{display:inline-flex;align-items:center;gap:12px;margin-top:24px;padding:10px 15px;border:1px solid #657286;border-radius:12px}
+    .header-actions{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-top:18px}.refresh{appearance:none;border:1px solid #ccc0a3;background:#ccc0a3;color:#25364c;border-radius:9px;padding:11px 17px;font-weight:750;font-size:14px;cursor:pointer;text-decoration:none;display:inline-flex;align-items:center;gap:8px}.refresh:hover{background:#ddd3bd}.refresh-note{font-size:12px;color:#d7dce3}.total{display:inline-flex;align-items:center;gap:12px;margin-top:24px;padding:10px 15px;border:1px solid #657286;border-radius:12px}
     .total strong{font-size:28px;color:#fff;line-height:1}
     main{max-width:1120px;margin:28px auto;padding:0 22px 60px}
     .meta{display:flex;flex-wrap:wrap;justify-content:space-between;gap:8px;color:var(--muted);font-size:13px;margin-bottom:18px}
@@ -38,7 +38,7 @@
   <div class="brand">GMD Abogados</div>
   <h1>Radar Fiscal Administrativo</h1>
   <p class="subtitle">Seguimiento de disposiciones oficiales y criterios jurisdiccionales relevantes en materia fiscal y administrativa.</p>
-  <div class="total"><strong id="total">0</strong><span>publicaciones y criterios relevantes<br><small>en el periodo consultado</small></span></div>
+  <div class="header-actions"><div class="total"><strong id="total">0</strong><span>publicaciones y criterios relevantes<br><small>en el periodo consultado</small></span></div><a class="refresh" href="https://github.com/christianngm-svg/radar-fiscal-administrativo/actions/workflows/check-sources.yml" target="_blank" rel="noopener noreferrer">↻ Actualizar</a><span class="refresh-note">Abre la ejecución manual del radar en GitHub.</span></div>
 </header>
 <main>
   <div class="meta"><span id="period">Consulta de información</span><span id="updated">Última actualización: pendiente</span><span id="sources">Fuentes: pendientes de verificación</span></div>
