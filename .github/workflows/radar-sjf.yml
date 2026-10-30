@@ -1,0 +1,25 @@
+name: Radar SJF
+
+on:
+  workflow_dispatch:
+  # Activar el cron tras validar la operación y parámetros del Web Service oficial.
+  # 20:30 UTC garantiza que el corte sea después de las 12:00 en Tijuana todo el año.
+  # schedule:
+  #   - cron: "30 20 * * 5"
+
+permissions:
+  contents: write
+
+jobs:
+  radar-sjf:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validar configuración
+        run: |
+          echo "Workflow SJF listo para pruebas manuales."
+          echo "Pendiente: validar el contrato de ObtenerTesisSemana y el enlace individual de cada criterio."
+          test -f data/radar.json
+      - name: Estado
+        run: |
+          echo "No se modificó el radar: no se publica un resultado vacío sin una consulta oficial comprobada."
