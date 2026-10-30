@@ -42,40 +42,46 @@ def load():
     except Exception: return {"period":"Sin cortes procesados","updated_at":None,"dof":[],"sjf":[]}
 def dof_cut(day):
     payload=json.loads(request(f"{BASE}/notas/{date_fmt(day)}").decode("utf-8-sig"))
-    if str(payload.get("messageCode","200")) not in ("200","OK") or str(payload.get("response","OK")).lower() not in ("ok","success","200"):
+    if str(payload.get("messageCode",""))!="200" or str(payload.get("response","")).upper()!="OK":
         raise RuntimeError("SIDOF reportó error: "+str(payload.get("response")))
+    # SIDOF agrupa las notas por edición; no existe un único arreglo llamado ListaNotas.
+    edition_keys=("NotasMatutinas","NotasVespertinas","NotasExtraordinarias")
+    if not any(k in payload and isinstance(payload[k],list) for k in edition_keys):
+        raise RuntimeError("Respuesta SIDOF sin los arreglos oficiales de notas.")
     candidates=[]
-    for obj in walk(payload):
-        code=obj.get("codNota") or obj.get("codigo") or obj.get("codNotaId")
-        title=obj.get("titulo") or obj.get("tituloNota") or obj.get("nombre") or obj.get("descripcion")
-        if code and title:
-            candidates.append((str(code),clean(title),obj))
-    # El endpoint de notas es la fuente primaria; si el esquema cambia, no se declara un corte vacío.
-    if not candidates:
-        # No declarar "sin novedades" ante un esquema desconocido o una respuesta vacía ambigua.
-        known_empty = any(k in payload for k in ("ListaNotas", "listaNotas", "notas", "Notas"))
-        if not known_empty:
-            raise RuntimeError("Respuesta SIDOF sin estructura de notas verificable; se conserva el último corte.")
-        listed = next((payload.get(k) for k in ("ListaNotas", "listaNotas", "notas", "Notas") if k in payload), None)
-        if listed not in ([], None):
-            raise RuntimeError("SIDOF devolvió notas con un esquema no reconocido; se conserva el último corte.")
+    for key in edition_keys:
+        for obj in payload.get(key,[]) or []:
+            if not isinstance(obj,dict): continue
+            code=obj.get("codNota")
+            if code: candidates.append((str(code),obj))
     out=[]
     seen=set()
-    for code,title,obj in candidates:
+    for code,meta in candidates:
         if code in seen: continue
         seen.add(code)
         detail=json.loads(request(f"{BASE}/notas/nota/{code}").decode("utf-8-sig"))
-        details=list(walk(detail))
-        body=""
-        for x in details:
-            for key in ("texto","contenido","contenidoNota","html","descripcion"):
-                if x.get(key) and len(clean(x[key]))>len(body): body=clean(x[key])
-        whole=title+" "+body
+        if str(detail.get("messageCode",""))!="200" or str(detail.get("response","")).upper()!="OK":
+            raise RuntimeError("SIDOF no pudo recuperar el texto de la nota "+code)
+        note=detail.get("Nota") or detail.get("nota")
+        if not isinstance(note,dict):
+            raise RuntimeError("SIDOF devolvió una nota sin objeto Nota: "+code)
+        raw=note.get("cadenaContenido") or note.get("contenido") or note.get("contenidoTxt") or ""
+        body=clean(raw)
+        title=clean(note.get("titulo") or meta.get("titulo") or "")
+        if not title and body:
+            # El HTML oficial suele iniciar con el encabezado del instrumento.
+            title_match=re.search(r"<(?:h[1-6]|strong|b)[^>]*>(.*?)</(?:h[1-6]|strong|b)>",str(raw),re.I|re.S)
+            title=clean(title_match.group(1)) if title_match else body[:180].strip()
+        if not title:
+            org=clean(note.get("nombOrganismo") or note.get("nombreCodOrgaUno") or meta.get("nombreCodOrgaUno") or "")
+            title=("Publicación de "+org) if org else "Publicación oficial del DOF"
+        whole=" ".join([title,body,clean(note.get("nombOrganismo") or meta.get("nombreCodOrgaUno") or "")])
         cats=matches(whole)
         if not cats: continue
-        url=f"https://sidof.segob.gob.mx/dof/sidof/notas/nota/{code}"
-        out.append({"id":"dof-"+code,"title":title,"headline":title,"summary":(body[:650] if body else "Publicación oficial identificada por materia: "+", ".join(cats)+". Consulta el texto íntegro en la fuente oficial."),"topics":cats,"date":day.isoformat(),"source":"DOF","url":url})
+        summary=body[:900] if body else ("Publicación oficial relacionada con "+", ".join(cats)+". Consulta el texto íntegro en la fuente oficial.")
+        out.append({"id":"dof-"+code,"title":title,"headline":title,"summary":summary,"topics":cats,"date":day.isoformat(),"source":"DOF","url":f"https://sidof.segob.gob.mx/dof/sidof/notas/nota/{code}"})
     return out
+
 def soap_call(operation, inner):
     envelope=f'''<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns="http://sjf.scjn.gob.mx/"><soap:Body><{operation}>{inner}</{operation}></soap:Body></soap:Envelope>'''.encode()
     raw=request(SJF,data=envelope,headers={"Content-Type":"text/xml; charset=utf-8","SOAPAction":f'"http://sjf.scjn.gob.mx/{operation}"'})
