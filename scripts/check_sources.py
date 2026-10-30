@@ -67,7 +67,7 @@ def main():
     data["source_errors"] = errors
     with open(OUT, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
-        f.write("\\n")
+        f.write("\n")
     print(json.dumps(status, ensure_ascii=False, indent=2))
     # Una fuente sin parsear no es una consulta editorial exitosa; marca el job como diagnóstico, no como publicación.
     if errors: print("Una o más fuentes no respondieron; no se alteraron los resultados editoriales.")
