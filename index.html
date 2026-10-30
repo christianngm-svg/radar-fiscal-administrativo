@@ -45,15 +45,15 @@
   <div class="sections">
     <section class="panel" aria-labelledby="dof-title">
       <div class="panel-head"><div><h2 id="dof-title">Diario Oficial de la Federación</h2><p class="desc">Disposiciones fiscales y administrativas</p></div><div class="count" id="dof-count">0</div></div>
-      <div id="dof-items"><div class="empty"><strong>Sin publicaciones relevantes</strong>El radar aún no ha procesado publicaciones.</div></div>
+      <div id="dof-items"><div class="empty"><strong>Cargando información</strong>Consultando el último corte procesado.</div></div>
     </section>
     <section class="panel" aria-labelledby="sjf-title">
       <div class="panel-head"><div><h2 id="sjf-title">Semanario Judicial de la Federación</h2><p class="desc">Tesis y jurisprudencias de interés práctico</p></div><div class="count" id="sjf-count">0</div></div>
-      <div id="sjf-items"><div class="empty"><strong>Sin criterios registrados</strong>El radar aún no ha procesado nuevos criterios.</div></div>
+      <div id="sjf-items"><div class="empty"><strong>Cargando información</strong>Consultando el último corte procesado.</div></div>
     </section>
   </div>
 </main>
-<footer>Herramienta privada de consulta interna. La selección y síntesis del radar no sustituyen la revisión de la publicación oficial.</footer>
+<footer>Radar público de consulta. La selección y síntesis no sustituyen la revisión de la publicación oficial.</footer>
 <script>
 (async()=>{
   const empty=(title,detail)=>'<div class="empty"><strong>'+title+'</strong>'+detail+'</div>';
@@ -76,7 +76,9 @@
     document.getElementById('period').textContent=data.period||'Periodo consultado';
     document.getElementById('updated').textContent='Última actualización: '+(data.updated_at||'sin registro');
   }catch(e){
-    document.getElementById('period').textContent='Panel inicializado · pendiente de conexión con fuentes oficiales';
+    document.getElementById('period').textContent='No fue posible cargar el último reporte';
+    document.getElementById('dof-items').innerHTML=empty('Consulta no disponible','No se pudo leer el archivo de datos.');
+    document.getElementById('sjf-items').innerHTML=empty('Consulta no disponible','No se pudo leer el archivo de datos.');
   }
 })();
 </script>
