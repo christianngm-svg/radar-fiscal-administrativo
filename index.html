@@ -74,7 +74,10 @@
     document.getElementById('sjf-count').textContent=s;
     document.getElementById('total').textContent=d+s;
     document.getElementById('period').textContent=data.period||'Periodo consultado';
-    document.getElementById('updated').textContent='Última publicación: '+(data.updated_at||'sin registro');\n    const st=data.source_status||{};\n    const label=v=>v==='reachable_unparsed'?'conectada; datos por validar':v==='unavailable'?'sin conexión':'pendiente';\n    document.getElementById('sources').textContent='DOF: '+label(st.dof)+' · SJF: '+label(st.sjf);
+    document.getElementById('updated').textContent='Último proceso: '+(data.checked_at||data.updated_at||'sin registro');
+    const st=data.source_status||{};
+    const label=v=>v==='success'?'consulta completada':v==='unavailable'?'consulta no disponible':'pendiente';
+    document.getElementById('sources').textContent='DOF: '+label(st.dof)+' · SJF: '+label(st.sjf);
   }catch(e){
     document.getElementById('period').textContent='No fue posible cargar el último reporte';
     document.getElementById('dof-items').innerHTML=empty('Consulta no disponible','No se pudo leer el archivo de datos.');
