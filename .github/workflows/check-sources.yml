@@ -1,4 +1,4 @@
-name: Diagnóstico de fuentes oficiales
+name: Radar DOF y SJF
 
 on:
   workflow_dispatch:
