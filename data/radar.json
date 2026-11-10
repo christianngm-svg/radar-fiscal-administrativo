@@ -1,487 +1,1325 @@
 {
-  "period": "Corte 09/11/2026 15:57 (hora de Tijuana)",
-  "updated_at": "2026-11-09T15:57:37.994133-08:00",
+  "period": "Corte 10/11/2026 13:39 (hora de Tijuana)",
+  "updated_at": "2026-11-10T13:39:21.217765-08:00",
   "dof": [
     {
-      "id": "dof-5803277",
-      "title": "Decreto por el que se concede autorización a la persona titular del Poder Ejecutivo Federal para permitir la salida de los elementos que integran una delegación de tropas nacionales fuera de los límites del país, a efecto de que participen en el ejercicio \"Cambrian Patrol 2026\", que se llevará a cabo del 2 al 14 de octubre de 2026, en Brecon, Gales, Reino Unido.",
-      "headline": "Decreto por el que se concede autorización a la persona titular del Poder Ejecutivo Federal para permitir la salida de los elementos que integran una delegación de tropas nacionales fuera de los límites del país, a efecto de que participen en el ejercicio \"Cambrian Patrol 2026\", que se llevará a cabo del 2 al 14 de octubre de 2026, en Brecon, Gales, Reino Unido.",
-      "summary": "DECRETO por el que se concede autorización a la persona titular del Poder Ejecutivo Federal para permitir la salida de los elementos que integran una delegación de tropas nacionales fuera de los límites del país, a efecto de que participen en el ejercici .ANOTACION {text-indent:0.0pt;text-align:center;font-size:9.0pt;margin-left:0.0pt;margin-bottom:5.05pt;font-family:serif,Times,Times Roman,Times-Roman;margin-top:5.05pt;font-weight:bold;} .Fechas {margin-right:14.4pt;text-indent:0.0pt;text-align:justify;font-size:9.0pt;border-bottom: 0.75pt solid rgb(0,0,0);margin-left:14.4pt;margin-bottom:0.0pt;font-family:serif,Times,Times Roman,Times-Roman;padding-bottom:0.05pt;} .Normal {text-indent:0.0pt;font-size:12.0pt;margin-left:0.0pt;font-family:serif,Times,Times Roman,Times-Roman;} .Texto {text-indent:14.4pt;text-align:justify;font-size:9.0pt;margin-left:0.0pt;margin-bottom:5.05pt;font-family:",
-      "topics": [
-        "Administrativo"
-      ],
-      "date": "2026-11-09",
-      "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803277"
-    },
-    {
-      "id": "dof-5803279",
-      "title": "Aviso por el que se dan a conocer las tarifas autorizadas para el cobro de diferentes servicios portuarios, aplicables en diversos puertos de México.",
-      "headline": "Aviso por el que se dan a conocer las tarifas autorizadas para el cobro de diferentes servicios portuarios, aplicables en diversos puertos de México.",
-      "summary": "AVISO por el que se dan a conocer las tarifas autorizadas para el cobro de diferentes servicios portuarios, aplicables en diversos puertos de México .ANOTACION {text-indent:0.0pt;text-align:center;font-size:9.0pt;margin-left:0.0pt;margin-bottom:5.05pt;font-family:serif,Times,Times Roman,Times-Roman;margin-top:5.05pt;font-weight:bold;} .Fechas {margin-right:14.4pt;text-indent:0.0pt;text-align:justify;font-size:9.0pt;border-bottom: 0.75pt solid rgb(0,0,0);margin-left:14.4pt;margin-bottom:0.0pt;font-family:serif,Times,Times Roman,Times-Roman;padding-bottom:0.05pt;} .Normal {text-indent:0.0pt;font-size:12.0pt;margin-left:0.0pt;font-family:serif,Times,Times Roman,Times-Roman;} .Texto {text-indent:14.4pt;text-align:justify;font-size:9.0pt;margin-left:0.0pt;margin-bottom:5.05pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} .Titulo_2 {padding-to",
-      "topics": [
-        "Administrativo"
-      ],
-      "date": "2026-11-09",
-      "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803279"
-    },
-    {
-      "id": "dof-5803280",
-      "title": "Aviso por el que se da a conocer la tarifa autorizada para el cobro por el uso de infraestructura portuaria, aplicable en el recinto portuario de Salina Cruz, Oax.",
-      "headline": "Aviso por el que se da a conocer la tarifa autorizada para el cobro por el uso de infraestructura portuaria, aplicable en el recinto portuario de Salina Cruz, Oax.",
-      "summary": "AVISO por el que se da a conocer la tarifa autorizada para el cobro por el uso de infraestructura portuaria, aplicable en el recinto portuario de Salina Cruz, Oax .ANOTACION {text-indent:0.0pt;text-align:center;font-size:9.0pt;margin-left:0.0pt;margin-bottom:5.05pt;font-family:serif,Times,Times Roman,Times-Roman;margin-top:5.05pt;font-weight:bold;} .Fechas {margin-right:14.4pt;text-indent:0.0pt;text-align:justify;font-size:9.0pt;border-bottom: 0.75pt solid rgb(0,0,0);margin-left:14.4pt;margin-bottom:0.0pt;font-family:serif,Times,Times Roman,Times-Roman;padding-bottom:0.05pt;} .Normal {text-indent:0.0pt;font-size:12.0pt;margin-left:0.0pt;font-family:serif,Times,Times Roman,Times-Roman;} .Texto {text-indent:14.4pt;text-align:justify;font-size:9.0pt;margin-left:0.0pt;margin-bottom:5.05pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} .Titulo",
-      "topics": [
-        "Administrativo"
-      ],
-      "date": "2026-11-09",
-      "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803280"
-    },
-    {
-      "id": "dof-5803282",
-      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las entidades federativas y sus municipios, a los entes públicos de unas y otros, así como a las demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas o celebrar contratos con la empresa Sistemas Prácticos en Seguridad Privada, S.A. de C.V.",
-      "headline": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las entidades federativas y sus municipios, a los entes públicos de unas y otros, así como a las demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas o celebrar contratos con la empresa Sistemas Prácticos en Seguridad Privada, S.A. de C.V.",
-      "summary": "CIRCULAR por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las entidades federativas y sus municipios, a los entes públicos de unas y otros, así como a las demarcaciones territoriales de la Ciudad de México, qu .Fechas {margin-right:14.4pt;text-indent:0.0pt;text-align:justify;font-size:9.0pt;border-bottom: 0.75pt solid rgb(0,0,0);margin-left:14.4pt;margin-bottom:0.0pt;font-family:serif,Times,Times Roman,Times-Roman;padding-bottom:0.05pt;} .Normal {text-indent:0.0pt;font-size:12.0pt;margin-left:0.0pt;font-family:serif,Times,Times Roman,Times-Roman;} .Texto {text-indent:14.4pt;text-align:justify;font-size:9.0pt;margin-left:0.0pt;margin-bottom:5.05pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} .Titulo_2 {padding-top:0.05pt;text-indent:0.0pt;text-align:justify;font-size:9.0pt;margin-left:0.0pt;ma",
+      "id": "dof-5803339",
+      "title": "Sexto Addendum al Título de Concesión para la Administración Portuaria Integral de Quintana Roo, S.A. de C.V., que otorga la Secretaría de Marina a favor de la Administración Portuaria Integral de Quintana Roo, S.A. de C.V.",
+      "headline": "Sexto Addendum al Título de Concesión para la Administración Portuaria Integral de Quintana Roo, S.A. de C.V., que otorga la Secretaría de Marina a favor de la Administración Portuaria Integral de Quintana Roo, S.A. de C.V.",
+      "summary": "SEXTO Addendum al Título de Concesión para la Administración Portuaria Integral de Quintana Roo, S .ANOTACION {text-indent:0.0pt;text-align:center;font-size:9.0pt;margin-left:0.0pt;margin-bottom:5.05pt;font-family:serif,Times,Times Roman,Times-Roman;margin-top:5.05pt;font-weight:bold;} .Fechas {margin-right:14.4pt;text-indent:0.0pt;text-align:justify;font-size:9.0pt;border-bottom: 0.75pt solid rgb(0,0,0);margin-left:14.4pt;margin-bottom:0.0pt;font-family:serif,Times,Times Roman,Times-Roman;padding-bottom:0.05pt;} .Normal {text-indent:0.0pt;font-size:12.0pt;margin-left:0.0pt;font-family:serif,Times,Times Roman,Times-Roman;} .Texto {text-indent:14.4pt;text-align:justify;font-size:9.0pt;margin-left:0.0pt;margin-bottom:5.05pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} .Sin_lista {text-indent:0.0pt;font-size:10.0pt;margin-left:0.0pt;font-f",
       "topics": [
         "Fiscal",
         "Administrativo"
       ],
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803282"
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803339"
     },
     {
-      "id": "dof-5803284",
-      "title": "Convenio Específico de Coordinación para la transferencia de los bienes inmuebles relacionados con los establecimientos de salud a que se refieren la Cláusula Segunda y el Anexo 1 del Convenio de Coordinación que establece la forma de colaboración en materia de personal, infraestructura, equipamiento, medicamentos y demás insumos asociados para la prestación gratuita de servicios de salud, para las personas sin seguridad social, que celebran Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) y el Estado de Yucatán.",
-      "headline": "Convenio Específico de Coordinación para la transferencia de los bienes inmuebles relacionados con los establecimientos de salud a que se refieren la Cláusula Segunda y el Anexo 1 del Convenio de Coordinación que establece la forma de colaboración en materia de personal, infraestructura, equipamiento, medicamentos y demás insumos asociados para la prestación gratuita de servicios de salud, para las personas sin seguridad social, que celebran Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) y el Estado de Yucatán.",
-      "summary": "CONVENIO Específico de Coordinación para la transferencia de los bienes inmuebles relacionados con los establecimientos de salud a que se refieren la Cláusula Segunda y el Anexo 1 del Convenio de Coordinación que establece la forma de colaboración en mat .ANOTACION {text-indent:0.0pt;text-align:center;font-size:9.0pt;margin-left:0.0pt;margin-bottom:5.05pt;font-family:serif,Times,Times Roman,Times-Roman;margin-top:5.05pt;font-weight:bold;} .Encabezado {text-indent:0.0pt;font-size:12.0pt;margin-left:0.0pt;font-family:serif,Times,Times Roman,Times-Roman;} .Normal {text-indent:0.0pt;font-size:12.0pt;margin-left:0.0pt;font-family:serif,Times,Times Roman,Times-Roman;} .Texto {text-indent:14.4pt;text-align:justify;font-size:9.0pt;margin-left:0.0pt;margin-bottom:5.05pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} .Sin_lista {text-indent:0.0pt;f",
+      "id": "dof-5803341",
+      "title": "Acuerdo por el que se actualiza el Compendio Nacional de Insumos para la Salud versión 2025, publicado el 26 de abril de 2025.",
+      "headline": "Acuerdo por el que se actualiza el Compendio Nacional de Insumos para la Salud versión 2025, publicado el 26 de abril de 2025.",
+      "summary": "ACUERDO por el que se actualiza el Compendio Nacional de Insumos para la Salud versión 2025, publicado el 26 de abril de 2025 .listStyle_1815024169_level_1 {text-indent:-18.0pt;font-size:10.0pt;margin-left:36.0pt;font-family:Symbol;} .ANOTACION {text-indent:0.0pt;text-align:center;font-size:9.0pt;margin-left:0.0pt;margin-bottom:5.05pt;font-family:serif,Times,Times Roman,Times-Roman;margin-top:5.05pt;font-weight:bold;} .Fechas {margin-right:14.4pt;text-indent:0.0pt;text-align:justify;font-size:9.0pt;border-bottom: 0.75pt solid rgb(0,0,0);margin-left:14.4pt;margin-bottom:0.0pt;font-family:serif,Times,Times Roman,Times-Roman;padding-bottom:0.05pt;} .Normal {text-indent:0.0pt;font-size:12.0pt;margin-left:0.0pt;font-family:serif,Times,Times Roman,Times-Roman;} .Texto {text-indent:14.4pt;text-align:justify;font-size:9.0pt;margin-left:0.0pt;margin-bottom:5.05pt;font-family:Tahoma,Arial Unicode ",
+      "topics": [
+        "Fiscal",
+        "Seguridad social y aduanas",
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803341"
+    },
+    {
+      "id": "dof-5803343",
+      "title": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 125/2024, así como el Voto Concurrente de la señora Ministra Sara Irene Herrerías Guerra.",
+      "headline": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 125/2024, así como el Voto Concurrente de la señora Ministra Sara Irene Herrerías Guerra.",
+      "summary": "SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 125/2024, así como el Voto Concurrente de la señora Ministra Sara Irene Herrerías Guerra .ANOTACION {text-indent:0.0pt;text-align:center;font-size:9.0pt;margin-left:0.0pt;margin-bottom:5.05pt;font-family:serif,Times,Times Roman,Times-Roman;margin-top:5.05pt;font-weight:bold;} .Fechas {margin-right:14.4pt;text-indent:0.0pt;text-align:justify;font-size:9.0pt;border-bottom: 0.75pt solid rgb(0,0,0);margin-left:14.4pt;margin-bottom:0.0pt;font-family:serif,Times,Times Roman,Times-Roman;padding-bottom:0.05pt;} .Normal {text-indent:0.0pt;font-size:12.0pt;margin-left:0.0pt;font-family:serif,Times,Times Roman,Times-Roman;} .Texto {text-indent:14.4pt;text-align:justify;font-size:9.0pt;margin-left:0.0pt;margin-bottom:5.05pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,A",
       "topics": [
         "Fiscal",
         "Administrativo",
         "Seguridad social y aduanas",
         "Litigio y amparo"
       ],
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803284"
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803343"
     },
     {
-      "id": "dof-5803286",
+      "id": "dof-5803345",
+      "title": "Aviso por el que se hace del conocimiento del público en general la incorporación de diversas autoridades a los modelos de interconexión digital del Poder Judicial de la Federación.",
+      "headline": "Aviso por el que se hace del conocimiento del público en general la incorporación de diversas autoridades a los modelos de interconexión digital del Poder Judicial de la Federación.",
+      "summary": "AVISO por el que se hace del conocimiento del público en general la incorporación de diversas autoridades a los modelos de interconexión digital del Poder Judicial de la Federación .ANOTACION {text-indent:0.0pt;text-align:center;font-size:9.0pt;margin-left:0.0pt;margin-bottom:5.05pt;font-family:serif,Times,Times Roman,Times-Roman;margin-top:5.05pt;font-weight:bold;} .Fechas {margin-right:14.4pt;text-indent:0.0pt;text-align:justify;font-size:9.0pt;border-bottom: 0.75pt solid rgb(0,0,0);margin-left:14.4pt;margin-bottom:0.0pt;font-family:serif,Times,Times Roman,Times-Roman;padding-bottom:0.05pt;} .Normal {text-indent:0.0pt;font-size:12.0pt;margin-left:0.0pt;font-family:serif,Times,Times Roman,Times-Roman;} .Texto {text-indent:14.4pt;text-align:justify;font-size:9.0pt;margin-left:0.0pt;margin-bottom:5.05pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetic",
+      "topics": [
+        "Fiscal",
+        "Seguridad social y aduanas"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803345"
+    },
+    {
+      "id": "dof-5803347",
       "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
       "headline": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
       "summary": "TIPO de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana .Fechas {margin-right:14.4pt;text-indent:0.0pt;text-align:justify;font-size:9.0pt;border-bottom: 0.75pt solid rgb(0,0,0);margin-left:14.4pt;margin-bottom:0.0pt;font-family:serif,Times,Times Roman,Times-Roman;padding-bottom:0.05pt;} .Encabezado {text-indent:0.0pt;font-size:12.0pt;margin-left:0.0pt;font-family:serif,Times,Times Roman,Times-Roman;} .Normal {text-indent:0.0pt;font-size:12.0pt;margin-left:0.0pt;font-family:serif,Times,Times Roman,Times-Roman;} .Texto {text-indent:14.4pt;text-align:justify;font-size:9.0pt;margin-left:0.0pt;margin-bottom:5.05pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} .Titulo_2 {padding-top:0.05pt;text-indent:0.0pt;text-align:justify;font-size:9.0pt;margin-left:0.0pt;margin-bottom:5.05pt;font-fami",
       "topics": [
         "Fiscal"
       ],
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803286"
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803347"
     },
     {
-      "id": "dof-5803290",
-      "title": "Resolución del Consejo General del Instituto Nacional Electoral sobre la procedencia constitucional y legal de las modificaciones a los documentos básicos del Partido Paz, realizadas en cumplimiento al punto segundo de la Resolución identificada con la clave INE/CG344/2026, así como en el ejercicio de su libertad de autoorganización.",
-      "headline": "Resolución del Consejo General del Instituto Nacional Electoral sobre la procedencia constitucional y legal de las modificaciones a los documentos básicos del Partido Paz, realizadas en cumplimiento al punto segundo de la Resolución identificada con la clave INE/CG344/2026, así como en el ejercicio de su libertad de autoorganización.",
-      "summary": "RESOLUCIÓN del Consejo General del Instituto Nacional Electoral sobre la procedencia constitucional y legal de las modificaciones a los documentos básicos del Partido Paz, realizadas en cumplimiento al punto segundo de la Resolución identificada con la c .listStyle_1243880116_level_1 {text-indent:-18.0pt;font-size:10.0pt;margin-left:50.4pt;font-family:Symbol;} .listStyle_1442796283_level_1 {text-indent:-18.0pt;font-size:10.0pt;margin-left:50.4pt;font-family:Symbol;} .ROMANOS_Car {font-size:9.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} .listStyle_1307971053_level_1 {text-indent:-18.0pt;font-size:10.0pt;margin-left:50.4pt;font-family:Symbol;} .listStyle_1805614882_level_1 {text-indent:-18.0pt;font-size:10.0pt;margin-left:50.4pt;font-family:Symbol;} .Texto {text-indent:14.4pt;text-align:justify;font-size:9.0pt;margin-left:0.0pt;margin",
+      "id": "dof-5803350",
+      "title": "Valor de la unidad de inversión.",
+      "headline": "Valor de la unidad de inversión.",
+      "summary": "VALOR de la unidad de inversión .Fechas {margin-right:14.4pt;text-indent:0.0pt;text-align:justify;font-size:9.0pt;border-bottom: 0.75pt solid rgb(0,0,0);margin-left:14.4pt;margin-bottom:0.0pt;font-family:serif,Times,Times Roman,Times-Roman;padding-bottom:0.05pt;} .Encabezado {text-indent:0.0pt;font-size:12.0pt;margin-left:0.0pt;font-family:serif,Times,Times Roman,Times-Roman;} .Normal {text-indent:0.0pt;font-size:12.0pt;margin-left:0.0pt;font-family:serif,Times,Times Roman,Times-Roman;} .Texto {text-indent:14.4pt;text-align:justify;font-size:9.0pt;margin-left:0.0pt;margin-bottom:5.05pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} .Titulo_2 {padding-top:0.05pt;text-indent:0.0pt;text-align:justify;font-size:9.0pt;margin-left:0.0pt;margin-bottom:5.05pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803350"
+    },
+    {
+      "id": "dof-5803352",
+      "title": "Índice nacional de precios al consumidor.",
+      "headline": "Índice nacional de precios al consumidor.",
+      "summary": "ÍNDICE nacional de precios al consumidor .Fechas {margin-right:14.4pt;text-indent:0.0pt;text-align:justify;font-size:9.0pt;border-bottom: 0.75pt solid rgb(0,0,0);margin-left:14.4pt;margin-bottom:0.0pt;font-family:serif,Times,Times Roman,Times-Roman;padding-bottom:0.05pt;} .Normal {text-indent:0.0pt;font-size:12.0pt;margin-left:0.0pt;font-family:serif,Times,Times Roman,Times-Roman;} .Texto {text-indent:14.4pt;text-align:justify;font-size:9.0pt;margin-left:0.0pt;margin-bottom:5.05pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} .Hipervínculo {color:#0000ff;text-decoration:underline;} .Titulo_2 {padding-top:0.05pt;text-indent:0.0pt;text-align:justify;font-size:9.0pt;margin-left:0.0pt;margin-bottom:5.05pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;border-top: 0.75pt solid rgb(0,0,0);} .Titu",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803352"
+    },
+    {
+      "id": "dof-5803355",
+      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las empresas productivas del Estado, así como a las entidades federativas, municipios y alcaldías de la Ciudad de México, que la particular responsable Soluciones Integrales Logísticas, Marítimas y Portuarias, S.A. de C.V., se encuentra en una inhabilitación temporal por el período de tres meses para participar en adquisiciones, arrendamientos, servicios u obras públicas.",
+      "headline": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las empresas productivas del Estado, así como a las entidades federativas, municipios y alcaldías de la Ciudad de México, que la particular responsable Soluciones Integrales Logísticas, Marítimas y Portuarias, S.A. de C.V., se encuentra en una inhabilitación temporal por el período de tres meses para participar en adquisiciones, arrendamientos, servicios u obras públicas.",
+      "summary": "CIRCULAR por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las empresas productivas del Estado, así como a las entidades federativas, municipios y alcaldías de la Ciudad de México, que la particular responsable .Fechas {margin-right:14.4pt;text-indent:0.0pt;text-align:justify;font-size:9.0pt;border-bottom: 0.75pt solid rgb(0,0,0);margin-left:14.4pt;margin-bottom:0.0pt;font-family:serif,Times,Times Roman,Times-Roman;padding-bottom:0.05pt;} .Normal {text-indent:0.0pt;font-size:12.0pt;margin-left:0.0pt;font-family:serif,Times,Times Roman,Times-Roman;} .Texto {text-indent:14.4pt;text-align:justify;font-size:9.0pt;margin-left:0.0pt;margin-bottom:5.05pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} .Titulo_2 {padding-top:0.05pt;text-indent:0.0pt;text-align:justify;font-size:9.0pt;margin-left:0.0pt;ma",
       "topics": [
         "Fiscal",
+        "Administrativo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803355"
+    },
+    {
+      "id": "dof-5803406",
+      "title": "AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO, S.A. DE C.V. - REF:582082",
+      "headline": "AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO, S.A. DE C.V. - REF:582082",
+      "summary": "AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO, S.A. DE C.V. DIRECCION CORPORATIVA DE ADMINISTRACION Y FINANZAS COORDINACION DE RECURSOS MATERIALES Y SERVICIOS GENERALES GERENCIA DE CONTRATACION DE BIENES Y SERVICIOS RESUMEN DE AVISO DE FALLO Aeropuerto Internacional de la Ciudad de México, S.A. de C.V. con domicilio en: Avenida Capitan Carlos León González, sin número, Colonia Peñón de los Baños, Código Postal 15520, Delegación Venustiano Carranza, Ciudad de México, informa del siguiente fallo: Aviso de fallo de la Licitación Pública Internacional Electrónica bajo la Cobertura de los Capítulos de Compras de los Tratados de Libre Comercio Suscritos por los Estados Unidos Mexicanos No. LA-13-KDN-013KDN001-T-309-2026, para la Adquisición de Equipos de Seguridad para Revisión de Equipaje en el Aeropuerto Internacional Benito Juárez Ciudad de México , adjudicado a : DR MEXICO, S.A. DE C.V. ",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803406"
+    },
+    {
+      "id": "dof-5803407",
+      "title": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582171",
+      "headline": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582171",
+      "summary": "INSTITUTO MEXICANO DEL SEGURO SOCIAL ORGANO DE OPERACION ADMINISTRATIVA DESCONCENTRADA REGIONAL COLIMA JEFATURA DE SERVICIOS ADMINISTRATIVOS COORDINACION DE ABASTECIMIENTO Y EQUIPAMIENTO En observancia al artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, y de conformidad con los artículos 35 fracción I, 36, 37, 39 fracciones I y II, 40, 41, 42, 43, 44, 45, 46, 47,48 fracción II, 49, 50, 51, 65, 66, 67, 68, 69, 70, 71, 72 75, 77, 78, 79, 81, 82, 83, 84, 85 y 86 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público (LAASSP), 102, 129 y demás relativas de su Reglamento, las Políticas, Bases y Lineamientos en materia de Adquisiciones, Arrendamientos y Servicios, y demás disposiciones jurídicas aplicables en la materia, se informa a los interesados en participar en las licitaciones públicas que la convocatoria a la licitación contiene las bases medi",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803407"
+    },
+    {
+      "id": "dof-5803492",
+      "title": "SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MORELOS - REF:582226",
+      "headline": "SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MORELOS - REF:582226",
+      "summary": "SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MORELOS NOTA ACLARATORIA A LA CONVOCATORIA DE LICITACION PUBLICA NACIONAL ELECTRONICA NUMERO LA-76-T42-917054986-N-1-2026 En relación con la convocatoria de licitación pública nacional electrónica número LA-76-T42-917054986- N-1-2026, publicada en el Diario Oficial de la Federación el día 05 de noviembre del presente año, en la sección única “convocatorias para concursos de adquisiciones, arrendamientos, obras y servicios del sector público”, con referencia REF: 582037, para la contratación del “Servicio Integral para Habilitar el Sistema de Aire Acondicionado del Centro de Rehabilitación y Educación Especial (CREE) del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos”, en el marco del proyecto “Fortalecimiento para los Centros de Discapacidad de Asistencia Social del Sistema DIF Morelos 2026”, se hace",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803492"
+    },
+    {
+      "id": "dof-5803494",
+      "title": "ESCUELA NORMAL DE AGUASCALIENTES - REF:582133",
+      "headline": "ESCUELA NORMAL DE AGUASCALIENTES - REF:582133",
+      "summary": "ESCUELA NORMAL DE AGUASCALIENTES SUBDIRECCION ADMINISTRATIVA RESUMEN DE CONVOCATORIA LICITACION PUBLICA De conformidad con la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, se convoca a los interesados a participar en la licitación pública nacional número LA-60-N66-901018984-N-1-2026 , cuya Convocatoria que contiene las bases de participación están disponibles para su consulta en Internet: https://comprasmx.buengobierno.gob.mx o bien en: Av. Paseo de la Cruz #904, Fraccionamiento IV Centenario, Aguascalientes, Ags. Teléfono: 449 915 1574 ext. 101, los días del 05 de noviembre al 20 de noviembre del año en curso de las 8:00 a 14:00 horas. Descripción de la licitación Adquisición de Viaje para Movilidad Académica, Mobiliario Escolar, Equ ipamiento Tecnológico y Mantenimiento en Instalaciones. Volumen a adquirir Los detalles se determinan en la propia convocatoria Fech",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803494"
+    },
+    {
+      "id": "dof-5803495",
+      "title": "SECRETARIA DE LA DEFENSA NACIONAL - REF:582046",
+      "headline": "SECRETARIA DE LA DEFENSA NACIONAL - REF:582046",
+      "summary": "SECRETARIA DE LA DEFENSA NACIONAL SUBDIRECCION DE ADQUISICIONES DE LA DIRECCION GENERAL DE ADMINISTRACION RESUMEN DE CONVOCATORIA LICITACION PUBLICA ELECTRONICA DE CARACTER INTERNACIONAL BAJO LA COBERTURA DE TRATADOS De conformidad con la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, se convoca a los interesados a participar en la Licitación Pública Electrónica de Carácter Internacional Bajo la Cobertura de Tratados No. LA-07-110-007000999-T-768-2026, cuya convocatoria contiene las bases de participación disponibles para su consulta en Internet: http://comprasmx.buengobierno.gob.mx . Descripción de la licitación. “Adquisición de refacciones para los sistemas de telefonía y enlaces satelitales” 3/a. vuelta. Volumen a adquirir. Los detalles se determinan en la propia convocatoria. Fecha de Publicación en Compras MX. 30/10/2026, 12:00 horas. Junta de aclaraciones 4/11",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803495"
+    },
+    {
+      "id": "dof-5803496",
+      "title": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582174",
+      "headline": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582174",
+      "summary": "INSTITUTO MEXICANO DEL SEGURO SOCIAL ORGANO DE OPERACION ADMINISTRATIVA DESCONCENTRADA ESTATAL CAMPECHE JEFATURA DE SERVICIOS ADMINISTRATIVOS COORDINACION DE ABASTECIMIENTO Y EQUIPAMIENTO PUBLICACION DE FALLO DE LICITACION PUBLICA INTERNACIONALES BAJO LA COBERTURA DE TRATADOS El Instituto Mexicano del Seguro Social, con fundamento en lo que establece el artículo 106, segundo párrafo del Reglamento de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, pública los siguientes fallos de las licitaciones públicas internacionales bajo la cobertura de tratados: No. licitación Descripción genérica Fecha del fallo LA-50-GYR-050GYR069-T-96-2026 ADQUISICION DE EQUIPO ASOCIADO A OBRA PARA EL HOSPITAL DE GINECO PEDIATRIA No. 15 17 DE SEPTIEMBRE DEL 2026 Nombre del Licitante ganador Domicilio del ganador Cantidad de partidas asignadas Monto total del contrato adjudicado MANTENIMIE",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803496"
+    },
+    {
+      "id": "dof-5803497",
+      "title": "AUDITORIA SUPERIOR DE LA FEDERACION - REF:582108",
+      "headline": "AUDITORIA SUPERIOR DE LA FEDERACION - REF:582108",
+      "summary": "AUDITORIA SUPERIOR DE LA FEDERACION UNIDAD GENERAL DE ADMINISTRACION DIRECCION GENERAL DE RECURSOS MATERIALES Y SERVICIOS DIRECCION DE RECURSOS MATERIALES Y ADMINISTRACION DE ARCHIVOS RESUMEN DE CONVOCATORIA De conformidad con el Acuerdo que establece las normas administrativas aplicables a las adquisiciones, arrendamientos y servicios, en la Auditoría Superior de la Federación, se convoca a los interesados a participar en la Licitación Pública Internacional Abierta, cuya convocatoria contiene los requisitos para la participación. La convocatoria estará disponible para consulta en la página de Internet: www.asf.gob.mx, menú inferior opción “Recursos Materiales y Servicios” o bien en las oficinas de la Dirección de Recursos Materiales y Administración de Archivos, dependiente de la Dirección General de Recursos Materiales y Servicios, ubicada Carretera Picacho Ajusco No. 167, Col. Ampliac",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803497"
+    },
+    {
+      "id": "dof-5803498",
+      "title": "FISCALIA GENERAL DE LA REPUBLICA - REF:582116",
+      "headline": "FISCALIA GENERAL DE LA REPUBLICA - REF:582116",
+      "summary": "FISCALIA GENERAL DE LA REPUBLICA UNIDAD ESPECIALIZADA DE RECURSOS, SERVICIOS E INFRAESTRUCTURA INMOBILIARIA RESUMEN DE CONVOCATORIA LICITACION PUBLICA NACIONAL LA-49-830-049830002-N-2-2027 De conformidad con lo previsto en la Subsección II.4.3. numeral 13 del Acuerdo A/OM/06/2025 por el que se emiten las Disposiciones en materia de recursos materiales, servicios generales y contrataciones públicas de la Fiscalía General de la República y Acuerdo A/OM/08/2025 por el que se prórroga su vigencia, se convoca a los interesados a participar en la Licitación Pública Nacional número No. LA-49-830-049830002-N-2-2027, cuya convocatoria que contiene las bases de participación se encuentra disponible para consulta en Internet: https://comprasmx.buengobierno.gob.mx/ o bien en: Calle Río Elba No. 17, Piso 2, Col. Cuauhtémoc, Demarcación Territorial Cuauhtémoc, C.P. 06500, Ciudad de México, teléfonos 5",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803498"
+    },
+    {
+      "id": "dof-5803499",
+      "title": "INSTITUTO NACIONAL DE LA INFRAESTRUCTURA FISICA EDUCATIVA - REF:582141",
+      "headline": "INSTITUTO NACIONAL DE LA INFRAESTRUCTURA FISICA EDUCATIVA - REF:582141",
+      "summary": "INSTITUTO NACIONAL DE LA INFRAESTRUCTURA FISICA EDUCATIVA GERENCIA DE RECURSOS MATERIALES Y SERVICIOS GENERALES RESUMEN DE CONVOCATORIA A LA LICITACION PUBLICA ELECTRONICA NACIONAL De conformidad con lo dispuesto en el artículo 41 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, se informa a los interesados en participar en licitaciones públicas que la convocatoria a la licitación que contiene las bases mediante las cuales se desarrollará el procedimiento, así como la descripción de los requisitos de participación y el modelo de contrato específico, se encuentra disponible para su consulta en: https://comprasmx.buengobierno.gob.mx , o bien, en el domicilio de la convocante en: Vito Alessio Robles No. 380, Colonia Florida C.P. 01030 Alcaldía Alvaro Obregón, Ciudad de México, teléfono, 5554804700, ext. 1384 a partir de la fecha de la publicación de la presente con",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803499"
+    },
+    {
+      "id": "dof-5803503",
+      "title": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582167",
+      "headline": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582167",
+      "summary": "INSTITUTO MEXICANO DEL SEGURO SOCIAL COORDINACION DE UNIDADES MEDICAS DE ALTA ESPECIALIDAD UNIDAD MEDICA DE ALTA ESPECIALIDAD HOSPITAL DE ONCOLOGIA CENTRO MEDICO NACIONAL SIGLO XXI RESUMEN DE LAS CONVOCATORIAS El Instituto Mexicano del Seguro Social, en cumplimiento a lo que establece el Artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y los Artículos 35 fracción I, 36, 37, 39 fracción I, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 66, 67 y 79 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, convoca a los interesados, a participar en las licitaciones que enseguida se enlistan, cuyas convocatorias que contienen las bases de participación estarán disponibles para consulta en internet: https://comprasmx.buengobierno.gob.mx/ 1. Licitación Pública Nacional LA-50-GYR-050GYR051-N-1-2027 Nombre del Procedimiento de contratación Licitación Púb",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803503"
+    },
+    {
+      "id": "dof-5803506",
+      "title": "065P13 - SERVICIOS DE SALUD DEL ESTADO DE COLIMA - REF:582066",
+      "headline": "065P13 - SERVICIOS DE SALUD DEL ESTADO DE COLIMA - REF:582066",
+      "summary": "065P13 - SERVICIOS DE SALUD DEL ESTADO DE COLIMA RESUMEN DE CONVOCATORIA No. 36111001-002-2026 LICITACION PUBLICA NACIONAL, CON FORMA DE PARTICIPACION ELECTRONICA De conformidad con la LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO, se convoca a los interesados a participar en la licitación NACIONAL número LA-65-P13-906019995-N-37-2026, cuya Convocatoria que contiene las bases de participación disponibles para consulta en Internet: https://comprasmx.buengobierno.gob.mx/. Nombre del Procedimiento de contratación SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO A EQUIPOS DE AIRE ACONDICIONADO, BAJO LA MODALIDAD DE CONTRATO ABIERTO, GRUPO 1 (558 EQUIPOS EN 14 UNIDADES MEDICAS DEL IMSS-BIENESTAR COLIMA), CON CARGO AL PRESUPUESTO U013 2026 Volumen a adquirir Contrato abierto: presupuesto mínimo $4,800,000.00 y máximo $12,000,000.00 con IVA. Los detalles se determinan en ",
+      "topics": [
+        "Fiscal",
+        "Seguridad social y aduanas"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803506"
+    },
+    {
+      "id": "dof-5803508",
+      "title": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582159",
+      "headline": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582159",
+      "summary": "INSTITUTO MEXICANO DEL SEGURO SOCIAL ORGANO DE OPERACION ADMINISTRATIVA DESCONCENTRADA REGIONAL VERACRUZ NORTE COORDINACION DE ABASTECIMIENTO Y EQUIPAMIENTO RESUMEN DE CONVOCATORIA: 11/2026 En observancia a la Constitución Política de los Estados Unidos Mexicanos en su artículo 134 y de conformidad con la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público Artículo 35 fracción I y 39 Fracción I, 84, 85, 86, 87, 90 y 91, y demás relativos del Reglamento vigente de la propia Ley, se convoca a los interesados en participar de conformidad con lo siguiente: Número de Licitación LA-50-GYR-050GYR014-N-2-2027 Carácter de la Licitación Pública Nacional Descripción de la licitación SERVICIOS MEDICOS SUBROGADOS PARA LA REALIZACION DE ESTUDIOS Y/O T RATAMIENTOS DE ECOCARDIOGRAMAS, ELECTRO DIAGNOSTICO, ENDOSCOPIAS, ULTRASONIDOS, MARCAJES MAMARIOS, BIOPSIAS GUIADAS, OFTALMOLOGIA, POLIS",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803508"
+    },
+    {
+      "id": "dof-5803509",
+      "title": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582172",
+      "headline": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582172",
+      "summary": "INSTITUTO MEXICANO DEL SEGURO SOCIAL ORGANO DE OPERACION ADMINISTRATIVA DESCONCENTRADA REGIONAL COLIMA JEFATURA DE SERVICIOS ADMINISTRATIVOS COORDINACION DE ABASTECIMIENTO Y EQUIPAMIENTO En observancia al artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, y de conformidad con los artículos 33, 35 fracción I, 36, 37, 39 fracción I, 40, 41, 42, 43, 44, 45, 46, 47, 48, 48 fracción I, 49, 50, 51, 64, 65, 66, 67, 68, 69, 70, 71, 72,75, 76, 77, 78, 79, 81, 82, 83, 84, 85 y 86, de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público (LAASSP), el 87, 100, 125, 126, 129, 130, 141, 142, 143 y demás relativas de su Reglamento, las Políticas, Bases y Lineamientos en materia de Adquisiciones, Arrendamientos y Servicios, y demás disposiciones jurídicas aplicables en la materia, se informa a los interesados en participar en la licitación pública que la convocato",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803509"
+    },
+    {
+      "id": "dof-5803515",
+      "title": "CAMARA DE SENADORES - REF:582145",
+      "headline": "CAMARA DE SENADORES - REF:582145",
+      "summary": "CAMARA DE SENADORES SECRETARIA GENERAL DE SERVICIOS ADMINISTRATIVOS DIRECCION DE ADQUISICIONES RESUMEN DE CONVOCATORIA MULTIPLE Con fundamento en lo dispuesto por el Artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, así como a lo establecido por las Normas para Adquisiciones, Arrendamientos, Prestación de Servicios y Obras Públicas de la Cámara de Senadores, la Dirección de Adquisiciones convoca a los interesados a participar en las Licitaciones Públicas Nacionales, que se enlistan a continuación: Licitación Pública Nacional No. SEN/DGRMSG/L005/2027: Servicio de operación y mantenimiento preventivo y correctivo a la planta de tratamiento de aguas residuales (PTAR), 3 plantas de osmosis inversa marca AQUA TECNOLOGIA AMBIENTAL y monitoreo a 2 cisternas de agua potable en la sede del Senado en Reforma No. 135. Costo de las bases Visita a las instalaciones (Obligatori",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803515"
+    },
+    {
+      "id": "dof-5803518",
+      "title": "SECRETARIA DE LA DEFENSA NACIONAL - REF:582112",
+      "headline": "SECRETARIA DE LA DEFENSA NACIONAL - REF:582112",
+      "summary": "SECRETARIA DE LA DEFENSA NACIONAL SUBDIRECCION DE ADQUISICIONES DE LA DIRECCION GENERAL DE ADMINISTRACION RESUMEN DE CONVOCATORIA LICITACION PUBLICA ELECTRONICA (INTERNACIONAL BAJO LA COBERTURA DE TRATADOS) De conformidad con la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, se convoca a los interesados a participar en la Licitación Pública Electrónica (Internacional bajo la Cobertura de Tratados) No. LA-07-110-007000999-T-34-2027, cuya convocatoria contiene las bases respectivas. Objeto de la Licitación. Adquisición de medicamentos de patente para el Centro de Mezclas del Hospital Central Militar Volumen a Adquirir. Los detalles se determinan en la propia convocatoria. Fecha de Publicación 5 Nov. 2026. Visita a Instalaciones. Los detalles se determinan en la propia convocatoria. Junta de Aclaraciones. 08:00 horas, 13 Nov. 2026. Apertura de Proposiciones. 09:00 hora",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803518"
+    },
+    {
+      "id": "dof-5803519",
+      "title": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582176",
+      "headline": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582176",
+      "summary": "INSTITUTO MEXICANO DEL SEGURO SOCIAL ORGANO DE OPERACION ADMINISTRATIVA DESCONCENTRADA ESTATAL TLAXCALA JEFATURA DE SERVICIOS ADMINISTRATIVOS COORDINACION DE ABASTECIMIENTO Y EQUIPAMIENTO RESUMEN DE CONVOCATORIA En observancia a la Constitución Política de los Estados Unidos Mexicanos en su Artículo 134, y de conformidad con los artículos 5, 33, 35 fracción I, 36, 39 fracción I, 40, 41, 42, 43, 44, 45, 46, 47, 48 fracción I, 49, 50, 51, 66, 67, 68 y 69 fracción II de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público (LAASSP), 83, 86, 90, 91, 92 y 93 de su Reglamento, se convoca a los interesados a participar en la licitación que se relaciona a continuación y cuya Convocatoria que contiene las bases de participación están disponibles para consulta en Internet: https://comprasmx.buengobierno.gob.mx o en la Coordinación de Abastecimiento y Equipamiento con domicilio Lib",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803519"
+    },
+    {
+      "id": "dof-5803520",
+      "title": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582183",
+      "headline": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582183",
+      "summary": "INSTITUTO MEXICANO DEL SEGURO SOCIAL ORGANO DE OPERACION ADMINISTRATIVA DESCONCENTRADA ESTATAL QUERETARO RESUMEN DE CONVOCATORIA El Instituto Mexicano del Seguro Social, en cumplimiento a lo que establece el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y los artículos 35 fracción I, 36, 37, 39 fracción I y II, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 66, 67, 68, 69, 70, 71, 73, 74, 75, 76, 77, 78, 83 y 84 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público (LAASSP), 2, 4, 8, 9, 11, 12, 14, 45, 46, 47, 48, 49, 50, 51, 52, 53, 55, 56, 57, 58, 60, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 95, 97, 98, 99,100, 102, 103, 104, 105, 106, 113, 126, 129, 130, 131, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151 y 156 de su Reglamento, las Políticas, Bases y Lineamientos en materia de Adquisicio",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803520"
+    },
+    {
+      "id": "dof-5803521",
+      "title": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582164",
+      "headline": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582164",
+      "summary": "INSTITUTO MEXICANO DEL SEGURO SOCIAL ORGANO DE OPERACION ADMINISTRATIVA DESCONCENTRADA ESTATAL JALISCO JEFATURA DE SERVICIOS ADMINISTRATIVOS COORDINACION DE ABASTECIMIENTO Y EQUIPAMIENTO RESUMEN DE CONVOCATORIA En observancia a la Constitución Política de los Estados Unidos Mexicanos en su artículo 134 y de conformidad con los artículos 33, 35 fracción I, 36, 39 fracción I, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 67, 68 y 69 Fracción II de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público (LAASSP) 83, 86, 87, 91, 92 y 93 de su Reglamento, convoca a los interesados a participar en las licitaciones de conformidad con lo siguiente: Número de licitación LA-50-GYR-050GYR002-N-8-2027 Carácter de la licitación Licitación pública nacional (electrónica) Descripción de la licitación Servicio de Recolección, Transporte Externo y Disposición Final de los Residuos Sólidos Urb",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803521"
+    },
+    {
+      "id": "dof-5803523",
+      "title": "AUDITORIA SUPERIOR DE LA FEDERACION - REF:582109",
+      "headline": "AUDITORIA SUPERIOR DE LA FEDERACION - REF:582109",
+      "summary": "AUDITORIA SUPERIOR DE LA FEDERACION UNIDAD GENERAL DE ADMINISTRACION DIRECCION GENERAL DE RECURSOS MATERIALES Y SERVICIOS DIRECCION DE RECURSOS MATERIALES Y ADMINISTRACION DE ARCHIVOS RESUMEN DE CONVOCATORIA De conformidad con el Acuerdo que establece las normas administrativas aplicables a las adquisiciones, arrendamientos y servicios, en la Auditoría Superior de la Federación, se convoca a los interesados a participar en la Licitación Pública Internacional Abierta, cuya convocatoria contiene los requisitos para la participación. La convocatoria estará disponible para consulta en la página de Internet: www.asf.gob.mx, menú inferior opción “Recursos Materiales y Servicios” o bien en las oficinas de la Dirección de Recursos Materiales y Administración de Archivos, dependiente de la Dirección General de Recursos Materiales y Servicios, ubicada Carretera Picacho Ajusco No. 167, Col. Ampliac",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803523"
+    },
+    {
+      "id": "dof-5803524",
+      "title": "AUDITORIA SUPERIOR DE LA FEDERACION - REF:582063",
+      "headline": "AUDITORIA SUPERIOR DE LA FEDERACION - REF:582063",
+      "summary": "AUDITORIA SUPERIOR DE LA FEDERACION UNIDAD GENERAL DE ADMINISTRACION DIRECCION GENERAL DE RECURSOS MATERIALES Y SERVICIOS DIRECCION DE RECURSOS MATERIALES Y ADMINISTRACION DE ARCHIVOS RESUMEN DE CONVOCATORIA De conformidad con el Acuerdo que establece las normas administrativas aplicables a las adquisiciones, arrendamientos y servicios, en la Auditoría Superior de la Federación, se convoca a los interesados a participar en la Licitación Pública Nacional, cuya convocatoria contiene los requisitos para la participación. La convocatoria estará disponible para consulta en la página de Internet: www.asf.gob.mx, menú inferior opción “Recursos Materiales y Servicios” o bien en las oficinas de la Dirección de Recursos Materiales y Administración de Archivos, dependiente de la Dirección General de Recursos Materiales y Servicios, ubicada Carretera Picacho Ajusco No. 167, Col. Ampliación Fuentes d",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803524"
+    },
+    {
+      "id": "dof-5803410",
+      "title": "COMISION FEDERAL DE ELECTRICIDAD - REF:582157",
+      "headline": "COMISION FEDERAL DE ELECTRICIDAD - REF:582157",
+      "summary": "COMISION FEDERAL DE ELECTRICIDAD CONVOCATORIA Con fundamento en el Artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, 80 y 82 de la Ley de la Comisión Federal de Electricidad, en las disposiciones 2, fracción II, 30 fracción I, inciso b), 31, 37 fracción I de las Disposiciones Generales en Materia de adquisiciones, arrendamientos, contratación de servicios y ejecución de obras de la CFE, se hace saber a los interesados la publicación de la Concurso Abierto Internacional Bajo la Cobertura de los Tratados, de conformidad con lo siguiente: Número del Concurso: CFE-0900-CASAT-0025-2026 Descripción de Concurso: Mantenimiento al generador Eléctrico U5 de la Central Ciclo Combinado Felipe Carrillo Puerto Publicación en Micrositio CFE: 10/ 11/2026 Sesión de Aclaraciones: 13/11/2026, 10:00 hrs Límite para presentación de ofertas: 20/11/2026, 08:00 hrs Apertura Técnica: 20/1",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803410"
+    },
+    {
+      "id": "dof-5803411",
+      "title": "SERVICIOS DE SALUD DE CHIHUAHUA - REF:582144",
+      "headline": "SERVICIOS DE SALUD DE CHIHUAHUA - REF:582144",
+      "summary": "SERVICIOS DE SALUD DE CHIHUAHUA DIRECCION ADMINISTRATIVA DEPARTAMENTO DE ADQUISICIONES RESUMEN DE CONVOCATORIA LICITACION PUBLICA De conformidad con la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, se convoca a los interesados a participar en la Licitación Pública Internacional Bajo la Cobertura de Tratados número LA-67-031-908005999-T-2-2027, cuya Convocatoria que contienen los requisitos de participación se encuentran disponibles para consulta en Internet: https://comprasmx.buengobierno.gob.mx/compras-mx o bien en el Departamento de Adquisiciones de Servicios de Salud de Chihuahua, ubicado en calle Tercera No. 604, primer piso, Zona Centro, Chihuahua, Chihuahua, teléfono: 01 (614) 439-9900 ext. 21559, de 9:00 a 14:00 horas., en días hábiles. LA-67-031-908005999-T-2-2027 Descripción de la licitación ADQUISICION DE INSUMOS DE BANCO DE SANGRE CON EQUIPO EN COMODATO ",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803411"
+    },
+    {
+      "id": "dof-5803415",
+      "title": "CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS - REF:582195",
+      "headline": "CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS - REF:582195",
+      "summary": "CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS RESUMEN DE CONVOCATORIA LICITACION PUBLICA NACIONAL, CON FORMA DE PARTICIPACION ELECTRONICA De conformidad con la LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO , se convoca a los interesados a participar en la licitación NACIONAL número LA-09-J0U-009J0U990-N-10-2026 , cuya Convocatoria que contiene las bases de participación disponibles para consulta en Internet: https://comprasmx.buengobierno.gob.mx/ o bien en Km 5+000 Autopista Chamapa-Lechería Col. Ejidos de San Miguel Chalma, Atizapán de Zaragoza, Estado de México C.P. 52927, teléfono: 5552002000, extensiones 8359, 8350 y 7327, con un horario de 9:00 a 15:00 horas. No. de licitación: LA-09-J0U-009J0U990-N-10-2026 Carácter de la licitación: NACIONAL ELECTRONICA Descripción del objeto de la licitación: Licitación Pública Nacional Electrónica No. LA-09-J0U",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803415"
+    },
+    {
+      "id": "dof-5803416",
+      "title": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582158",
+      "headline": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582158",
+      "summary": "INSTITUTO MEXICANO DEL SEGURO SOCIAL ORGANO DE OPERACION ADMINISTRATIVA DESCONCENTRADA ESTATAL HIDALGO El Instituto Mexicano del Seguro Social, en cumplimiento a establecido en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y los artículos 35, fracción I, 36, 39 fracción I, 40, 41, 42, 43, 44, 45 y 46 de la Ley de Adquisiciones, Arrendamientos y Servicios del Instituto Mexicano del Seguro Social, así como el 86 y 87 de su Reglamento y las Políticas, Bases y Lineamientos en Materia de Adquisiciones, Arrendamientos y Servicios del Instituto Mexicano del Seguro Social, convoca a los interesados en participar en las Licitaciones Públicas de conformidad con lo siguiente: Número de Licitación LA-50-GYR-050GYR017-N-4-2027 Carácter de la Licitación Pública Nacional Electrónica Descripción de la Licitación SERVICIO SUBROGADO DE TRASLADO DE PACIENTES EN AUTOBUS PARA EL",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803416"
+    },
+    {
+      "id": "dof-5803417",
+      "title": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582180",
+      "headline": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582180",
+      "summary": "INSTITUTO MEXICANO DEL SEGURO SOCIAL ORGANO DE OPERACION ADMINISTRATIVA DESCONCENTRADA ESTATAL GUERRERO JEFATURA DE SERVICIOS ADMINISTRATIVOS COORDINACION DE ABASTECIMIENTO Y EQUIPAMIENTO DEPARTAMENTO DE ADQUISICION DE BIENES Y CONTRATACION DE SERVICIOS El Instituto Mexicano del Seguro Social, en cumplimiento a lo que establece el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, y en cumplimiento a lo previsto en los artículos 1, fracción III, 5, 28, 33, 35, fracción I, 36, 37, 39, fracción I, 40, 41, 42, 43, 44, 45, 46, 47, tercer párrafo, 48, fracción I, 49, 50, 51, 66, 67, 68, 69, 70, 71, 72, 75, 76, 77, 78, 81, 82, 86, 89, 90, 95 y 96 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, así como los artículos 2, 58, 83, 84, 86, 88, 90, 91, 92, 93, 94, 95, 97, 100, 102, 103, 105, 126, 129, 130, 132, 133, 142, 143, 144, 145, 153 y 158 de s",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803417"
+    },
+    {
+      "id": "dof-5803420",
+      "title": "UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO - REF:582125",
+      "headline": "UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO - REF:582125",
+      "summary": "UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO DIRECCION GENERAL DE OBRAS Y CONSERVACION LICITACION PUBLICA NACIONAL CONVOCATORIA No. 522.01.26.118.CS.LN.622.26.0317 En observancia a la Constitución Política de los Estados Unidos Mexicanos en su artículo 134 y a las Políticas en Materia de Obra y Servicios Relacionados con la Misma en sus puntos 10, 12 y 13 y de conformidad con los Lineamientos que se Adoptarán para el Proceso de Adjudicación de las Obras y de los Servicios Relacionados con las Mismas, se convoca a los interesados en participar en la Licitación de carácter Nacional No. 522.01.26.118.CS.LN.622.26.0317 , para la contratación de los trabajos de “Sistema de alimentación ininterrumpible para el Clúster HPC Fusionpod de la DGTIC en Ciudad Universitaria.” , de conformidad con lo siguiente: No. de Licitación Obra Periodo Venta de Bases Acto de Presentación y Apertura de Propuestas Cost",
+      "topics": [
+        "Fiscal",
+        "Seguridad social y aduanas"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803420"
+    },
+    {
+      "id": "dof-5803421",
+      "title": "COMISION FEDERAL DE ELECTRICIDAD - REF:582122",
+      "headline": "COMISION FEDERAL DE ELECTRICIDAD - REF:582122",
+      "summary": "COMISION FEDERAL DE ELECTRICIDAD AVISO MULTIPLE DE ADJUDICACION DE CONTRATOS La Subgerencia de Adquisiciones, de la Gerencia de Abastecimientos, con domicilio en Río Ródano No. 14, Piso 4, Sala 401, Alcaldía Cuauhtémoc, C.P. 06500, Ciudad de México, proporciona la información correspondiente de los siguientes fallos emitidos de los Concursos Abiertos Internacionales Bajo la Cobertura de los Tratados de Libre Comercio: No. CFE-0001-CAAAT-0092-2026, para la adquisición de Transformadores de Potencial y Corriente, informa que el concursante adjudicado fue: ARTECHE NORTH AMERICA, S.A. DE C.V., con domicilio en Antigua Carretera Federal México - Querétaro Km. 73.540, Tlaxinacalpan, Tepeji del Río de Ocampo, C.P. 42855, Estado de Hidalgo, para las partidas de la 1 a la 21 con un importe total Mínimo de $120,485,709.90 M.N. (Ciento Veinte Millones Cuatrocientos Ochenta y Cinco Mil Setecientos N",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803421"
+    },
+    {
+      "id": "dof-5803422",
+      "title": "PETROLEOS MEXICANOS - REF:582106",
+      "headline": "PETROLEOS MEXICANOS - REF:582106",
+      "summary": "PETROLEOS MEXICANOS DIRECCION DE ADMINISTRACION Y SERVICIOS SUBDIRECCION DE ABASTECIMIENTO COORDINACION DE ABASTECIMIENTO PARA EXPLORACION Y EXTRACCION GERENCIA DE CONTRATACIONES PARA EXPLORACION Y EXTRACCION CONVOCATORIA Con fundamento en los Artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; Capítulo 13 del Tratado entre los Estados Unidos Mexicanos, los Estados Unidos de América y Canadá (“T-MEC”) y sus correlativos de cualquier Tratado de Libre Comercio (TLC) vigente con Título o Capítulo de Compras del Sector Público celebrados por los Estados Unidos Mexicanos; 78 y 80 de la Ley de la Empresa Pública del Estado, Petróleos Mexicanos (la Ley); 13, 19 y 20, de las Disposiciones Generales de Contratación para Petróleos Mexicanos y sus Empresas Productivas Subsidiarias, (Disposiciones); y Numerales IV.7 inciso b), IV.12.2, de las Políticas y Lineamientos para Abas",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803422"
+    },
+    {
+      "id": "dof-5803425",
+      "title": "SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA Y PROTECCION DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA - REF:582051",
+      "headline": "SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA Y PROTECCION DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA - REF:582051",
+      "summary": "SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA Y PROTECCION DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA DIRECCION ADMINISTRATIVA LICITACION PUBLICA NACIONAL ELECTRONICA RESUMEN DE CONVOCATORIA No LA-64-O87-905040987-N-29-2026 De conformidad con lo establecido en el Artículo 41 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 83 de su Reglamento, se informa a los interesados en participar en la licitación pública, que la convocatoria a la misma contiene las bases mediante las cuales se desarrollará el procedimiento, así como la descripción de los requisitos de participación y el modelo de contrato específico, se encuentra disponible para su consulta en: https://comprasmx.buengobierno.gob.mx/ Carácter, medio y No. de Licitación Licitación Pública Nacional Electrónica No LA-64-O87-905040987-N-29-2026 Objeto de la Licitación ADQUISICION E INSTALACION DE MOBIL",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803425"
+    },
+    {
+      "id": "dof-5803429",
+      "title": "PODER EJECUTIVO DEL ESTADO DE CAMPECHE - REF:582137",
+      "headline": "PODER EJECUTIVO DEL ESTADO DE CAMPECHE - REF:582137",
+      "summary": "PODER EJECUTIVO DEL ESTADO DE CAMPECHE SECRETARIA DE DESARROLLO URBANO, MOVILIDAD Y OBRAS PUBLICAS DIRECCION GENERAL DE ADMINISTRACION Y GESTION DE OBRA PUBLICA RESUMEN DE CONVOCATORIA NUMERO 010-2026 La Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas del Estado de Campeche, en cumplimiento a lo establecido en el Artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y de conformidad con los Artículos 26 fracción I, 27 fracción I, 28, 29, 30 fracción 1, 32 y 33 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, convoca a los interesados a participar en la Licitación Pública Electrónica Nacional, de conformidad con lo siguiente: Licitación Pública Electrónica Nacional Número: LO-63-O65-904012996-N-38-2026 Pavimentación de Diversas Calles en la Localidad de Tixmucuy, Municipio Campeche Volumen a adquirir Los detalles se determinan en la propi",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803429"
+    },
+    {
+      "id": "dof-5803431",
+      "title": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582175",
+      "headline": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582175",
+      "summary": "INSTITUTO MEXICANO DEL SEGURO SOCIAL OFICINA DE ADQUISICIONES DEL ORGANO DE OPERACION ADMINISTRATIVA DESCONCENTRADA ESTATAL PUEBLA El Instituto Mexicano del Seguro Social, en cumplimiento a lo que establece el artículo 4 párrafo cuarto y 134 de la Constitución Política de los Estados Unidos Mexicanos, y de conformidad con los artículos 35 fracción I, 36, 39 fracción I,II 40, 41, 42, 43, 44, 45, 46, 47, 48 fracción I, II, 49, 50, 51, 66, 67, 68 y 69 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público (LAASSP) y los artículos 57, 58, 83, 84, 85, 86, 88, 90, 91, 92, 93, 94, 95, 97, 98, 99, 100,102, 103, 104, 106, 126 y 130 de su Reglamento, convoca a los interesados en participar de conformidad con lo siguiente: No. De la Licitación LA-50-GYR-050GYR006-T-164-2026 Carácter de la Licitación INTERNACIONAL BAJO LA COBERTURA DE TRATADOS Descripción Objeto de la Licitación A",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803431"
+    },
+    {
+      "id": "dof-5803432",
+      "title": "SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MEXICO - REF:582079",
+      "headline": "SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MEXICO - REF:582079",
+      "summary": "SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MEXICO COORDINACION DE ADMINISTRACION Y FINANZAS DIRECCION DE RECURSOS MATERIALES Y FINANCIEROS LICITACION PUBLICA NACIONAL ELECTRONICA RESUMEN DE LA CONVOCATORIA Servicios Educativos Integrados al Estado de México a través de la Coordinación de Administración y Finanzas, de conformidad con lo establecido en los artículos 126 y 134 de la Constitución Política de los Estados Unidos Mexicanos, así como en los artículos 33, 35 fracción I, 36, 39 fracción I y 40 de la Ley de Adquisiciones, Arrendamiento y Servicios del Sector Público, su Reglamento y demás disposiciones normativas aplicables, convoca a las personas interesadas a participar en la Licitación Pública Nacional Electrónica número E-2026-00117991, la presente Convocatoria se encuentra disponible para consulta en la siguiente página electrónica: https://comprasmx.buengobierno.gob.mx/siti",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803432"
+    },
+    {
+      "id": "dof-5803434",
+      "title": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582169",
+      "headline": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582169",
+      "summary": "INSTITUTO MEXICANO DEL SEGURO SOCIAL ORGANO DE OPERACION ADMINISTRATIVA DESCONCENTRADA NORTE DEL DISTRITO FEDERAL JEFATURA DE SERVICIOS ADMINISTRATIVOS COORDINACION DE ABASTECIMIENTO Y EQUIPAMIENTO RESUMEN DE CONVOCATORIA En observancia a los párrafos pri mero, tercero y quinto del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, y de conformidad con los artículos 33, 35 fracción I, 36, 37, 39 fracción II, 40, 41, 42, 43, 44, 45, 46, 47, 48 fracción I y II, 49, 50, 66, 67, 68, 69, 70, 71, 72, 73, 75, 76, 77, 78, 81, 82, 83, 84, 85, 86 87, 88, 90 y demás correlativos de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público (LAASSP);y demás correlativos de su Reglamento; las Políticas, Bases y Lineamientos en materia de Adquisiciones, Arrendamientos y Prestación de Servicios del Instituto Mexicano del Seguro Social vigentes y demás disposiciones ap",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803434"
+    },
+    {
+      "id": "dof-5803439",
+      "title": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582165",
+      "headline": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582165",
+      "summary": "INSTITUTO MEXICANO DEL SEGURO SOCIAL ORGANO DE OPERACION ADMINISTRATIVA DESCONCENTRADA REGIONAL MICHOACAN De conformidad con lo dispuesto en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y los artículos 35 fracción I, 36 primer párrafo, 37, 39 fracción II, 40, 41, 42, 43, 44, 45, 46, 47 y demás aplicables de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público vigente; así como, los artículos correspondientes del Reglamento de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público vigente, se informa a los interesados en participar en el procedimiento de Licitación Pública Internacional Bajo la Cobertura de Tratados Electrónica, a través de la convocatoria que contiene las bases, mediante las cuales, se desarrollarán dichos procedimientos, así como, la descripción de los requisitos de participación y el modelo de contrato es",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803439"
+    },
+    {
+      "id": "dof-5803441",
+      "title": "COMISION FEDERAL DE ELECTRICIDAD - REF:582198",
+      "headline": "COMISION FEDERAL DE ELECTRICIDAD - REF:582198",
+      "summary": "COMISION FEDERAL DE ELECTRICIDAD Con fundamento en el Artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, 80 y 82 de la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad, en las disposiciones 2 fracción II, 30 fracción I, inciso b), 31, 33 fracciones IV, VII y VIII, 34, 37 fracción I, 55, 56 fracciones II, III y IV de las Disposiciones Generales en Materia de adquisiciones, arrendamientos, contratación de servicios y ejecución de obras de la Comisión Federal de Electricidad y sus empresas productivas subsidiarias, de conformidad con lo siguiente: Número del Concurso: CFE-0001-CASAT-0075-2026 Descripción del Concurso: Servicio de mantenimiento mayor de turbina de vapor Doosan Skoda unidad 6 de la Central Ciclo Com binado Tula Fecha de Publicación en Micrositio: 6/11/2026 Sesión de Aclaraciones: 12/11/2026, 13:00 hrs. Límite para Presentación de O",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803441"
+    },
+    {
+      "id": "dof-5803442",
+      "title": "UNIDAD DE SERVICIOS PARA LA EDUCACION BASICA EN EL ESTADO DE QUERETARO - REF:582123",
+      "headline": "UNIDAD DE SERVICIOS PARA LA EDUCACION BASICA EN EL ESTADO DE QUERETARO - REF:582123",
+      "summary": "UNIDAD DE SERVICIOS PARA LA EDUCACION BASICA EN EL ESTADO DE QUERETARO RESUMEN DE CONVOCATORIA: 01 En observación a la Constitución Política de los Estados Unidos Mexicanos en su artículo 134, y de conformidad con la Ley de Adquisiciones, Arrendamientos y Servicios de Sector Público, se convoca a los interesados en participar en la Licitación Pública Nacional Federal Número LPNF-01-USEBEQ/2026, cuya convocatoria que contiene las bases de participación están disponibles para consulta en la dirección electrónica de Compras MX: https://comprasmx.buengobierno.gob.mx, o bien, en Av. Magisterio No. 1000, Col. Colinas del Cimatario, Querétaro, Qro., teléfonos 4422386000 Ext. 1155. De lunes a viernes, en días hábiles de 08:00 a 15:00 hrs. Licitación Pública Nacional Federal Número LPNF-01-USEBEQ/2026 Descripción de la Licitación LICITACION PUBLICA NACIONAL FEDERAL NUMERO LPNF-01-USEBEQ/2026 “ADQ",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803442"
+    },
+    {
+      "id": "dof-5803446",
+      "title": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582160",
+      "headline": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582160",
+      "summary": "INSTITUTO MEXICANO DEL SEGURO SOCIAL UNIDAD MEDICA DE ALTA ESPECIALIDAD HOSPITAL DE ESPECIALIDADES No. 14 CENTRO MEDICO NACIONAL “ADOLFO RUIZ CORTINES” UMAE VERACRUZ DEPARTAMENTO DE ABASTECIMIENTO El Instituto Mexicano del Seguro Social, en cumplimiento a lo que establece el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y los artículos 35 fracción I, 36, 39 fracción I, II, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 66, 67, 68, 70, 89, 90, y 96 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y demás relativos del Reglamento vigente de la propia Ley, y las Políticas, Bases y Lineamientos en Materia de Adquisiciones, Arrendamientos y Servicios convoca a los interesados en participar en las licitaciones públicas de conformidad con el siguiente: RESUMEN DE CONVOCATORIA 16/202 6 Número de Licitación LA-50-GYR-050GYR039-N-1-2027 Carácter de",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803446"
+    },
+    {
+      "id": "dof-5803449",
+      "title": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582166",
+      "headline": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582166",
+      "summary": "INSTITUTO MEXICANO DEL SEGURO SOCIAL SEGURIDAD Y SOLIDARIDAD SOCIAL ORGANO DE OPERACION ADMINISTRATIVA DESCONCENTRADA ESTATAL TABASCO JEFATURA DE SERVICIOS ADMINISTRATIVOS COORDINACION DE ABASTECIMIENTO Y EQUIPAMIENTO DEPARTAMENTO DE ADQUISICION DE BIENES Y CONTRATACION DE SERVICIOS De conformidad con los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos, 35 fracción I, 36, 39 fracción I, 40, 41, 42, 43, 44, 45, 46 y 68 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, así como el 83, 89, 85, 86, 87 y 88 del Reglamento de la misma Ley, se convoca a los interesados a participar en las licitaciones para la contratación de Bienes y Servicios, cuyas Convocatorias que contienen las bases de participación están disponible para su consulta en Internet: https://comprasmx.buengobierno.gob.mx en la plataforma Compras MX, misma que será gratuita o bi",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803449"
+    },
+    {
+      "id": "dof-5803452",
+      "title": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582163",
+      "headline": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582163",
+      "summary": "INSTITUTO MEXICANO DEL SEGURO SOCIAL ORGANO DE OPERACION ADMINISTRATIVA DESCONCENTRADA REGIONAL BAJA CALIFORNIA SUR RESUMEN DE CONVOCATORIA 09-2026 El Instituto Mexicano del Seguro Social en cumplimiento a lo que establece el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y los artículos 35 fracción I, 36, 39 fracción I, 40 y 41 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, convoca a los interesados a participar en las Licitaciones que se publican en el Resumen de Convocatoria 09-2026 de conformidad con lo siguiente: Número de licitación LA-50-GYR-050GYR030-N-12-2027 Carácter de la licitación Pública Nacional Electrónica Descripción de la licitación Servicio de Mantenimiento Preventivo Menor, Mayor y Correctivo del Equipo de Transporte del Parque Vehicular con Motor a Gasolina y Diésel Propiedad de este Organo de Operación Administra",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803452"
+    },
+    {
+      "id": "dof-5803457",
+      "title": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582178",
+      "headline": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582178",
+      "summary": "INSTITUTO MEXICANO DEL SEGURO SOCIAL ORGANO DE OPERACION ADMINISTRATIVA DESCONCENTRADA ESTATAL GUANAJUATO JEFATURA DE SERVICIOS ADMINISTRATIVOS COORDINACION DE ABASTECIMIENTO Y EQUIPAMIENTO En cumplimiento a lo que establece el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y los artículos 35 fracción I, 37, 39 fracción I, 40, 41, 42, 45 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, se convoca a los interesados a participar en la licitación para la adquisición de bienes y contratación de servicios, cuya Convocatoria que contiene las bases de participación están disponibles para consulta en Internet: https://comprasmx.buengobierno.gob.mx/contrataciones y serán gratuitas o bien se pondrá ejemplar impreso a disposición de los interesados exclusivamente para su consulta en: calle Suecia esquina con calle España S/N, Colonia Los Paraísos,",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803457"
+    },
+    {
+      "id": "dof-5803463",
+      "title": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582161",
+      "headline": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582161",
+      "summary": "INSTITUTO MEXICANO DEL SEGURO SOCIAL ORGANO DE OPERACION ADMINISTRATIVA DESCONCENTRADA ESTATAL CHIHUAHUA JEFATURA DE SERVICIOS ADMINISTRATIVOS COORDINACION DE ABASTECIMIENTO Y EQUIPAMIENTO En cumplimiento a lo que establece el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y los artículos, 35 fracción I, 36, 37, 39 fracción I, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 67, 68 y 69 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, así como los artículos 83, 86, 87, 90 y 92 de su Reglamento, se convoca a los interesados a participar en las licitaciones para la Contratación de Servicios y Adquisición de Bienes, cuyas Convocatorias que contienen las bases de participación, se encuentran disponibles para consulta en Internet: https://comprasmx.buengobierno.gob.mx/ serán gratuitas. RESUMEN DE CONVOCATORIA 23 Número de Licitación LA-50-GYR-050GYR0",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803463"
+    },
+    {
+      "id": "dof-5803464",
+      "title": "007H0C - GRUPO AEROPORTUARIO, FERROVIARIO, DE SERVICIOS AUXILIARES Y CONEXOS, OLMECA-MAYA-MEXICA, S.A. DE C.V. - REF:582058",
+      "headline": "007H0C - GRUPO AEROPORTUARIO, FERROVIARIO, DE SERVICIOS AUXILIARES Y CONEXOS, OLMECA-MAYA-MEXICA, S.A. DE C.V. - REF:582058",
+      "summary": "007H0C - GRUPO AEROPORTUARIO, FERROVIARIO, DE SERVICIOS AUXILIARES Y CONEXOS, OLMECA-MAYA-MEXICA, S.A. DE C.V. RESUMEN DE CONVOCATORIA LICITACION PUBLICA NACIONAL, CON FORMA DE PARTICIPACION ELECTRONICA De conformidad con la LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO, se convoca a los interesados a participar en la licitación NACIONAL número LA-07-H0C-007H0C999-N-94-2026, cuya Convocatoria que contiene las bases de participación disponibles para consulta en Internet: https://comprasmx.buengobierno.gob.mx/ o bien en (descripción domicilio), (horario de atención). Nombre del Procedimiento de contratación SUMINISTRO Y ENTREGA EN SITIO DE ARTICULOS DE OFICINA, PRODUCTOS PARA SERVICIO Volumen a adquirir Los detalles se determinan en la propia convocatoria Fecha y hora de publicación en Compras MX Fecha y hora de junta de aclaraciones 12 de Noviembre de 2026 a las 10:0",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803464"
+    },
+    {
+      "id": "dof-5803466",
+      "title": "CENTRO DE INVESTIGACION Y ASISTENCIA EN TECNOLOGIA Y DISEÑO DEL ESTADO DE JALISCO, A.C. - REF:582091",
+      "headline": "CENTRO DE INVESTIGACION Y ASISTENCIA EN TECNOLOGIA Y DISEÑO DEL ESTADO DE JALISCO, A.C. - REF:582091",
+      "summary": "CENTRO DE INVESTIGACION Y ASISTENCIA EN TECNOLOGIA Y DISEÑO DEL ESTADO DE JALISCO, A.C. SUBDIRECCION DE RECURSOS MATERIALES RESUMEN DE CONVOCATORIA De conformidad con la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, se convoca a los interesados a participar en la licitación pública electrónica nacional número LA-38-90I-03890I001-N-1-2027 , cuya Convocatoria que contiene las bases de participación disponibles para consulta en Internet: https://comprasmx.buengobierno.gob.mx o bien en Av. Normalistas No. 800, Colonia Colinas de la Normal, C.P 44270, Guadalajara, Jalisco, teléfono: 33455200 ext. 1103, los días de lunes a viernes de las 9:00 am a 16:00 hrs. Descripción de la licitación C ontratación de Servicios Especializados para la Operación del Centro de Investigación y Asistencia en Tecnología y Diseño del Estado de Jalisco, A.C. 2027, sede Guadalajara y subsedes Z",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803466"
+    },
+    {
+      "id": "dof-5803470",
+      "title": "CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS - REF:582196",
+      "headline": "CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS - REF:582196",
+      "summary": "CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS RESUMEN DE CONVOCATORIA LICITACION PUBLICA NACIONAL, CON FORMA DE PARTICIPACION ELECTRONICA De conformidad con la LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO, se convoca a los interesados a participar en la Convocatoria que contiene las bases de participación disponibles para consulta en Internet: https://comprasmx.buengobierno.gob.mx/ , o bien en las oficinas administrativas de la Unidad Regional Hermosillo ubicadas en Blvd. García Morales #215 colonia El Llano interior SICT, en Hermosillo Sonora, de lunes a viernes de las 09:00 a la 15:00 horas. No. Licitación: LA-09-J0U-009J0U989-N-12-2026 Carácter de la licitación: P ública Nacional Nombre del Procedimiento de contratación CONTRATACION DEL SERVICIO DE ARRENDAMIENTO DE MAQUINARIA Y EQUIPO PARA EL DESHIERBE EN EL TRAMO ESTACION DON-NOGALES DE LA UNIDAD ",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803470"
+    },
+    {
+      "id": "dof-5803472",
+      "title": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582181",
+      "headline": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582181",
+      "summary": "INSTITUTO MEXICANO DEL SEGURO SOCIAL ORGANO DE OPERACION ADMINISTRATIVA DESCONCENTRADA ESTATAL QUERETARO JEFATURA DE SERVICIOS ADMINISTRATIVOS COORDINACION DE ABASTECIMIENTO Y EQUIPAMIENTO DEPARTAMENTO DE ADQUISICION DE BIENES Y CONTRATACION DE SERVICIOS AVISO DE CANCELACION AVISO No. FECHA DE PUBLICACION 001 27 DE OCTUBRE 2026 No. DE LICITACION No. DE REGISTRO EN EL DOF LA-50-GYR-050GYR075-N-173-2026 001 Ubicación del Documento Con fundamento en el artículo 51 cuarto párrafo de la Ley de Adqui siciones, Arrendamientos y Servicios del Sector Público, se publica el presente aviso de cancelación por causas de fuerza mayor de la Licitación Pública Nacional número LA-50-GYR-050GYR075-N-173-2026. Para la contratación del “servicio de guardería en 22 (veintidós) centros de atención en los esquemas vecinal comunitario único y de guardería integradora, con vigencia del 01 (primero) de enero del ",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803472"
+    },
+    {
+      "id": "dof-5803473",
+      "title": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582184",
+      "headline": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582184",
+      "summary": "INSTITUTO MEXICANO DEL SEGURO SOCIAL ORGANO DE OPERACION ADMINISTRATIVA DESCONCENTRADA REGIONAL ESTADO DE MEXICO PONIENTE JEFATURA DE SERVICIOS ADMINISTRATIVOS COORDINACION DE ABASTECIMIENTO Y EQUIPAMIENTO RESUMEN DE CONVOCATORIA En observancia a la Constitución Política de los Estados Unidos Mexicanos en su Artículo 134 y de conformidad con los Artículos; 35 fracción I, 36, 39 fracción I, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 66, 67 Y 68 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y demás correlativos de su Reglamento; las Políticas, Bases y Lineamientos en materia de Adquisiciones, Arrendamientos y Prestación de Servicios del Instituto Mexicano del Seguro Social vigentes y demás disposiciones aplicables en la materia, se convoca a los interesados en participar en las presentes licitaciones, de conformidad con lo siguiente: Número de Licitación LA",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803473"
+    },
+    {
+      "id": "dof-5803474",
+      "title": "COMISION FEDERAL DE ELECTRICIDAD - REF:582062",
+      "headline": "COMISION FEDERAL DE ELECTRICIDAD - REF:582062",
+      "summary": "COMISION FEDERAL DE ELECTRICIDAD Con fundamento en el Artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, 80 y 82 de la Ley de Empresa Pública del Estado, Comisión Federal de Electricidad, en las Disposiciones 2 fracción II, 30 fracción I, inciso b), 31, 33 fracciones IV y VIII, 37 fracción I y 56 fracciones III y IV de las Disposiciones Generales en materia de adquisiciones, arrendamientos, contratación de servicios y ejecución de obras de CFE, se hace saber a los interesados la publicación de la Convocatoria Internacional Bajo la Cobertura de los Tratados de Libre Comercio, de conformidad con lo siguiente: CFE-0001-CASAT-0070-2026 Servicio de Mantenimiento de Turbina de Alta Intermedia Presión, Chumaceras, Sellos y Válvulas Principales de Turbina de Vapor de 350 MW de la Unidad 3 de la Unidad 3 de la C.T. Carbón II Fecha de publicación en Micrositio: 4/11/2026 Ses",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803474"
+    },
+    {
+      "id": "dof-5803475",
+      "title": "SECRETARIA DE LA DEFENSA NACIONAL - REF:582065",
+      "headline": "SECRETARIA DE LA DEFENSA NACIONAL - REF:582065",
+      "summary": "SECRETARIA DE LA DEFENSA NACIONAL SUBDIRECCION DE ADQUISICIONES DE LA DIRECCION GENERAL DE ADMINISTRACION RESUMEN DE CONVOCATORIA LICITACION PUBLICA ELECTRONICA (INTERNACIONAL BAJO LA COBERTURA DE TRATADOS) De conformidad con la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, se convoca a los interesados a participar en la Licitación Pública Electrónica (Internacional bajo la Cobertura de Tratados) No. LA-07-110-007000999-T-32-2027, cuya convocatoria contiene las bases respectivas. Objeto de la Licitación. Adquisición de medicamentos para el Centro de Mezclas del Hospital Central Militar. Volumen a Adquirir. Los detalles se determinan en la propia convocatoria. Fecha de Publicación 4 Nov. 2026. Visita a Instalaciones. Los detalles s e determinan en la propia convocatoria. Junta de Aclaraciones. 08:00 horas, 12 Nov. 2026. Apertura de Proposiciones. 09:00 horas, 25 Nov",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803475"
+    },
+    {
+      "id": "dof-5803477",
+      "title": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582155",
+      "headline": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582155",
+      "summary": "INSTITUTO MEXICANO DEL SEGURO SOCIAL UNIDAD MEDICA DE ALTA ESPECIALIDAD HOSPITAL DE TRAUMATOLOGIA Y ORTOPEDIA “LOMAS VERDES” El Instituto Mexicano del Seguro Social, en cumplimiento a lo que establece el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y los Artículos 33, 35 fracción I, 36, 37, 39 fracción I, 40, 41, 42, 43, 44, 45, 46, 37, 71, y 90 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, así como el 39, 42, 46 y 48 de su Reglamento, y las Políticas, bases y Lineamientos en Materia de Adquisiciones, Arrendamientos y Prestación de Servicios convoca a los interesados en participar en la Licitación Pública de conformidad con lo siguiente: RESUMEN DE CONVOCATORIA No. 010/2026 Número de licitación LA-50 -GYR-050GYR071-N-1-2027 Carácter de licitación LICITACION PUBLICA NACIONAL (ELECTRONICA) Descripción de Licitación SERVICIO DE MANTEN",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803477"
+    },
+    {
+      "id": "dof-5803484",
+      "title": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582162",
+      "headline": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582162",
+      "summary": "INSTITUTO MEXICANO DEL SEGURO SOCIAL SEGURIDAD Y SOLIDARIDAD SOCIAL ORGANO DE OPERACION ADMINISTRATIVA DESCONCENTRADA ESTATAL NAYARIT JEFATURA DE SERVICIOS ADMINISTRATIVOS COORDINACION DE ABASTECIMIENTO Y EQUIPAMIENTO En observancia al artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y de conformidad con los artículos 35 fracción I, 36, 37, 39 fracción I, 40, 41, 42 segundo párrafo, 43, 44, 45, 46, 47, 48 fracción II, 49, 66, 67, 68 y 69 fracción II de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; 83, 86, 90, 91, 92 y 93 de su Reglamento; las Políticas, Bases y Lineamientos en materia de Adquisiciones, Arrendamientos y Servicios del Instituto Mexicano del Seguro Social y demás disposiciones aplicables en la materia, se convoca a los interesados en participar en los procesos de licitación de conformidad con lo siguiente: RESUMEN DE CONVOCA",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803484"
+    },
+    {
+      "id": "dof-5803485",
+      "title": "CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS - REF:582194",
+      "headline": "CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS - REF:582194",
+      "summary": "CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS RESUMEN DE CONVOCATORIA LICITACION PUBLICA NACIONAL, CON FORMA DE PARTICIPACION ELECTRONICA De conformidad con la LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO , se convoca a los interesados a participar en la licitación NACIONAL número LA-09-J0U-009J0U990-N-9-2026 , cuya Convocatoria que contiene las bases de participación disponibles para consulta en Internet: https://comprasmx.buengobierno.gob.mx/ o bien en Km 5+000 Autopista Chamapa-Lechería Col. Ejidos de San Miguel Chalma, Atizapán de Zaragoza, Estado de México C.P. 52927, teléfono: 5552002000, extensiones 8359, 8350 y 7327, con un horario de 9:00 a 15:00 horas. No. de licitación: LA-09-J0U-009J0U990-N-9-2026 Carácter de la licitación: NACIONAL ELECTRONICA Descripción del objeto de la licitación: Licitación Pública Nacional Electrónica No. LA-09-J0U-0",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803485"
+    },
+    {
+      "id": "dof-5803486",
+      "title": "SECRETARIA DE LA DEFENSA NACIONAL - REF:582064",
+      "headline": "SECRETARIA DE LA DEFENSA NACIONAL - REF:582064",
+      "summary": "SECRETARIA DE LA DEFENSA NACIONAL SUBDIRECCION DE ADQUISICIONES DE LA DIRECCION GENERAL DE ADMINISTRACION RESUMEN DE CONVOCATORIA LICITACION PUBLICA ELECTRONICA (INTERNACIONAL BAJO LA COBERTURA DE TRATADOS) De conformidad con la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, se convoca a los interesados a participar en la Licitación Pública Electrónica (Internacional bajo la Cobertura de Tratados) No. LA-07-110-007000999-T-31-2027, cuya convocatoria contiene las bases respectivas. Objeto de la Licitación. Adquisición de medicamentos para escalones sanitarios de 1/o., 2/o. y 3/er. nivel de atención médica. Procedimiento I. Volumen a Adquirir. Los detalles se determinan en la propia convocatoria. Fecha de Publicación 4 Nov. 2026. Visita a Instalaciones. Los detalles se determinan en la propia convocatoria. Junta de Aclaraciones. 08:00 horas, 12 Nov. 2026. Apertura de ",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803486"
+    },
+    {
+      "id": "dof-5803488",
+      "title": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582168",
+      "headline": "INSTITUTO MEXICANO DEL SEGURO SOCIAL - REF:582168",
+      "summary": "INSTITUTO MEXICANO DEL SEGURO SOCIAL DIRECCION DE ADMINISTRACION UNIDAD DE ADQUISICIONES COORDINACION DE ADQUISICION DE BIENES Y CONTRATACION DE SERVICIOS COORDINACION TECNICA DE ADQUISICION DE BIENES DE INVERSION Y ACTIVOS DIVISION DE EQUIPO Y MOBILIARIO MEDICO El Instituto Mexicano del Seguro Social, con domicilio en la Calle Durango No. 291, Piso 11, Colonia Roma Norte, Demarcación Territorial Cuauhtémoc, Código Postal 06700, Ciudad de México, con fundamento en el artículo 106, párrafo segundo, del Reglamento de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, da a conocer lo siguiente: AVISO DE FALLO No. de Licitación Fecha de emisión de fallo LA-50-GYR-050GYR040-T-2-2026 09/09/2026 Licitación Pública Internacional Bajo Cobertura de Tratados Electrónica, referente al Programa de Adquisición de Equipo Médico 2026, Angiógrafos. Licitantes Ganadores Domicilio Tota",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803488"
+    },
+    {
+      "id": "dof-5803356",
+      "title": "Aviso REF:581143",
+      "headline": "Aviso REF:581143",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial Federal Tercer Tribunal Colegiado en Materia Civil del Tercer Circuito Zapopan, Jalisco EDICTOS A LOS: TERCEROS INTERESADOS María Enriqueta Ernestina Peña Magaña y Grupo Agrícola Alvarso sociedad de producción rural de responsabilidad limitada En el amparo directo 697/2025 promovido por Banco Multiva, Sociedad Anónima Institución de Banca Múltiple, Grupo Financiero Multiva, contra acto de la Primer Tribunal Colegiado de Apelación del Tercer Circuito , consistente en la sentencia de veintitrés de julio de dos mil veinticinco , dictada en el toca civil 22/2025; se ordenó emplazarla por edictos para que comparezca dentro de los treinta días siguientes de la última publica",
+      "topics": [
+        "Fiscal",
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803356"
+    },
+    {
+      "id": "dof-5803403",
+      "title": "Aviso REF:581304",
+      "headline": "Aviso REF:581304",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Juzgado Sexto de Distrito en Materia Civil en la Ciudad de México J.A.I. 991/2026 EDICTO. Al margen del escudo nacional que se advierte en la parte superior izquierda de esta foja y en la Ciudad de México, a los cinco días del mes de octubre de dos mil veintiséis; dentro de los autos del juicio de amparo número 991/2026, promovido por GUILLERMINA SAAVEDRA ÁLVAREZ, contra actos de la OCTAVA SALA Y JUEZ VIGÉSIMO QUINTO, AMBOS DE LO CIVIL DEL TRIBUNAL SUPERIOR DE JUSTICIA DE LA CIUDAD DE MÉXICO, no se cuenta con el domicilio cierto y actual en donde pudiera ser emplazada la tercera interesada María Yolanda Pérez Palacios, por lo que se ha ordenado emplaza",
+      "topics": [
+        "Fiscal",
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803403"
+    },
+    {
+      "id": "dof-5803358",
+      "title": "Aviso REF:581711",
+      "headline": "Aviso REF:581711",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Juzgado Primero de Distrito en el Estado Xalapa de Equez., Ver. EDICTO Al tercero interesado Juan Miguel Espino Luna : Se informa que el juicio de amparo 1319/2025, fue promovido por Erick Daniel y Juan Carlos, de apellidos Guevara López y Juan Martín Rivera Alarcón , por propio derecho, contra la orden de lanzamiento de cinco de diciembre de dos mil veinticinco ordenada en el expediente 915/2025 del Juzgado Tercero de Primera Instancia Civil del Distrito Judicial de Xalapa. Deberá presentarse ante este Juzgado Primero ubicado en Avenida Culturas Veracruzanas, ciento veinte, colonia Reserva Territorial, edificio sede del Poder Judicial de la Federación, dentro del plazo de treinta dí",
+      "topics": [
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803358"
+    },
+    {
+      "id": "dof-5803359",
+      "title": "Aviso REF:581746",
+      "headline": "Aviso REF:581746",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Juzgado Sexto de Distrito en el Estado de Guerrero Acapulco, Gro. Sección de Amparo EDICTO. \" Tercera interesada José Luis Rivera Muñoz \" \" Cumplimiento auto veinte de agosto de dos mil veintiséis, dictado por la Jueza Sexta Distrito Estado Guerrero, en Juicio Amparo 711/2025, promovido por José Gerardo Rivera Torres, por su propio derecho, contra actos del Juez Primero de Primera Instancia del Ramo Familiar del Distrito Judicial de los Bravo , con sede en Chilpancingo, Guerrero y otras autoridades responsables , se hace conocimiento que le resulta el carácter de tercera interesada, en términos artículo 5°, fracción III, de ley de amparo y 209, fracció",
+      "topics": [
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803359"
+    },
+    {
+      "id": "dof-5803360",
+      "title": "Aviso REF:581222",
+      "headline": "Aviso REF:581222",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Juzgado Sexto de Distrito en Materia Penal en la Ciudad de México EDICTO En los autos del juicio de amparo número 624/2026, promovido por Carlos Edmundo Hernández Lozada contra un acto del juez Trigésimo Tercero Penal del Tribunal Superior de Justicia de la Ciudad de México, se ordenó emplazar por edictos a la tercera interesada María Liliana Martínez Esquer, y se le concede un término de treinta días contado a partir de la última publicación para que comparezca a juicio a hacer valer sus derechos y señale domicilio para oír y recibir notificaciones en esta ciudad, apercibida que de no hacerlo, las ulteriores notificaciones aún las de carácter personal",
+      "topics": [
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803360"
+    },
+    {
+      "id": "dof-5803361",
+      "title": "Aviso REF:581340",
+      "headline": "Aviso REF:581340",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Juzgado Decimocuarto de Distrito en el Estado de México Naucalpan de Juárez Diario Oficial EDICTO Al margen un sello con el escudo nacional que dice: Estados Unidos Mexicanos. Poder Judicial de la Federación, Juzgado Decimocuarto de Distrito en el Estado de México, con residencia en Naucalpan de Juárez. A: once de septiembre de dos mil veintiséis. En el juicio de amparo 954/2026-III-A, promovido por Banco Mercantil del Norte, Sociedad Anónima, Institución de Banca Múltiple Grupo Financiero Banorte; se o rdenó emplazar al tercero interesado ILAN ELY VALENZUELA FRANCO, para que si a su interés conviene, comparezca a ejercer los derechos que le correspond",
+      "topics": [
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803361"
+    },
+    {
+      "id": "dof-5803362",
+      "title": "Aviso REF:581735",
+      "headline": "Aviso REF:581735",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Segundo Tribunal Colegiado en Materia Civil del Segundo Circuito, con residencia en Toluca, Estado de México EDICTO. Notificación a la tercera interesada Administradora de Carteras Barak Barak, Sociedad de Responsabilidad Limitada de Capital Variable. En el amparo directo 199 /2026 , promovido por Lidia Álvarez Hernández contra la resolución de dieciocho de febrero de dos mil veintiséis, emitida en el toca 132 /2024 , por la Primera Sala Colegiada Civil de Tlalnepantla, del Tribunal Superior de Justicia del Estado de México, se dictó un proveído el cinco de octubre de dos mil veintiséis, en el cual se ordenó notificarle dicho auto y correrle traslado c",
+      "topics": [
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803362"
+    },
+    {
+      "id": "dof-5803363",
+      "title": "Aviso REF:582074",
+      "headline": "Aviso REF:582074",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Órgano de Administración Judicial Primer Tribunal Colegiado del Vigésimo Noveno Circuito Pachuca de Soto, Hidalgo TEXTO DE EDICTOS TERCERO INTERESADO: JOSÉ ANTONIO BEDOLLA ÁNGELES \" Con fundamento en el artículo 27, fracción III, inciso c), de la Ley de Amparo, se ordena la siguiente publicación: Se ordena la publicación de edictos a efecto de lograr el emplazamiento del tercero interesado José Antonio Bedolla Ángeles , a quien se hace del conocimiento que en el Primer Tribunal Colegiado del Vigésimo Noveno Circuito, con residencia en Pachuca de Soto, Hidalgo, se encuentra radicado el juicio de amparo directo civil 549/2026, promovido por Inmobiliaria ",
+      "topics": [
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803363"
+    },
+    {
+      "id": "dof-5803364",
+      "title": "Aviso REF:582102",
+      "headline": "Aviso REF:582102",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Primer Tribunal Colegiado en Materia Civil del Primer Circuito EDICTOS PRIMER TRIBUNAL COLEGIADO EN MATERIA CIVIL DEL PRIMER CIRCUITO. SECRETARÍA DE ACUERDOS. JUICIO DE AMPARO DIRECTO D.C. 490/2026. QUEJOSA: ROSA MARÍA POLANCO AMADOR, TAMBIÉN CONOCIDA COMO ROSA MA. POLANCO AMADOR. EMPLAZAMIENTO A LA TERCERA INTERESADA: MARÍA DE LOURDES GUEVARA SÁNCHEZ TAMBIÉN CONOCIDA COMO MARÍA DE LOURDES GUEVARA SÁNCHEZ DE PORCAYO. En cumplimiento a lo ordenado por auto de veintiséis de octubre del año en curso, y con fundamento en lo dispuesto por el artículo 27, fracción III, inciso b) de la Ley de Amparo y 209 del Código Nacional de Procedimientos Civiles y Famili",
+      "topics": [
+        "Fiscal",
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803364"
+    },
+    {
+      "id": "dof-5803365",
+      "title": "Aviso REF:582019",
+      "headline": "Aviso REF:582019",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Juzgado Sexto de Distrito en el Estado San Luis Potosí, S.L.P. EDICTO En cumplimiento a lo ordenado en proveído de 09 de octubre de 2026, dictado en el juicio de amparo 81/ 2026, con fundamento en el artículo 27, fracción III, inciso c), de la Ley de Amparo, se emplaza al tercero interesado Construcciones GAF Sociedad Anónima de Capital Variable, por medio de edictos y se hace una relación de la demanda de amparo, en cumplimiento a lo dispuesto en el numeral 209 del Código Nacional de Procedimientos Civiles y Familiares, de aplicación supletoria a la Ley de Amparo, en términos del artículo 2: El presente juicio de amparo lo promueve Karla Karina Tristán Lozano, por propio derecho, co",
+      "topics": [
         "Administrativo",
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803365"
+    },
+    {
+      "id": "dof-5803366",
+      "title": "Aviso REF:581717",
+      "headline": "Aviso REF:581717",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Juzgado Cuarto de Distrito en Materia Penal en el Estado de México, con residencia en Toluca EDICTO En el juicio de amparo 369/2026 promovido por Juan Carlos González Salazar contra el acto del Juzgado de Control del Distrito Judicial de Toluca, se emitió un acuerdo para hacer saber a los terceros interesados Jesús Iniesta Sánchez y Gabriel Martínez Coyote; que dentro del plazo de treinta días siguientes deberán comparecer debidamente identificados en las instalaciones que ocupan este juzgado, sito en Avenida Doctor Nicolás San Juan, número 104, Colonia Ex Rancho Cuauhtémoc, código postal 50010, para ser debidamente emplazados al juicio de referencia. ",
+      "topics": [
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803366"
+    },
+    {
+      "id": "dof-5803367",
+      "title": "Aviso REF:581487",
+      "headline": "Aviso REF:581487",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Primer Tribunal Colegiado en Materias Penal y Civil del Vigésimo Circuito, con residencia en Tuxtla Gutiérrez EDICTO: VÍCTOR MANUEL ESPINOSA AGUILAR (TERCERO INTERESADO). En el juicio de amparo directo 557/ 2026, promovido por Vicente Álvarez García, solicitó el amparo y protección de la Justicia Federal, como autoridad responsable señaló a la Sala Regional Colegiada Mixta, Zona 03 San Cristóbal de Las Casas, del Tribunal Superior de Justicia del Estado de Chiapas; el acto reclamado es la sentencia de dos de febrero de dos mil veintitrés, dictada en el toca penal 47-B-1P03/2019, en la que se modificó la sentencia definitiva, dictada en la causa penal 9",
+      "topics": [
+        "Fiscal",
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803367"
+    },
+    {
+      "id": "dof-5803369",
+      "title": "Aviso REF:581742",
+      "headline": "Aviso REF:581742",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Juzgado Séptimo de Distrito de Amparo y Juicios Federales en el Estado, con residencia en Tuxtla Gutiérrez, Chiapas EDICTO PRESTAMOS FELICES EN 15 MINUTOS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE, SOFOM, E.N.R. (TERCERO INTERESADO) En el juicio de amparo 298/2026, promovido por Gregorio Olvera Gallegos , contra los actos atribuidos al Juzgado Cuarto del Ramo Civil del Distrito Judicial de Tuxtla Gutiérrez, Chiapas y otra autoridad , consistente en la resolución interlocutoria de veintisiete de febrero de dos mil veintiséis, dictada en el expediente 581/ 2025, del índice del Juzgado Cuarto del Ramo Civil del Distrito Judicial de Tuxtla Gutiérrez, Chiapas, ",
+      "topics": [
+        "Fiscal",
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803369"
+    },
+    {
+      "id": "dof-5803370",
+      "title": "Aviso REF:582020",
+      "headline": "Aviso REF:582020",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Segundo Tribunal Colegiado del Vigésimo Cuarto Circuito en el Estado de Nayarit EDICTO. Con fundamento en lo dispuesto en el numeral 315 del Código Federal de Procedimientos Civiles de aplicación supletoria a la Ley de Amparo, en el juicio de amparo directo 397/2022, promovido por David Pérez Moctezuma , se ordenó el emplazamiento por medio de edictos a la persona que tenga la representación legal de la difunta tercera interesada Rafaela Ramos Chávez, por desconocerse quién es y por ende su domicilio procesal, motivo por el que deberá hacérsele saber: 1.- Que el referido juicio de amparo queda a su disposición en la Secretaría de Acuerdos de este Segundo Tribunal Colegiado del Vigési",
+      "topics": [
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803370"
+    },
+    {
+      "id": "dof-5803371",
+      "title": "Aviso REF:582095",
+      "headline": "Aviso REF:582095",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Juzgado Séptimo de Distrito en Materia Civil en la Ciudad de México EDICTOS Al margen de un sello con el escudo nacional que dice: Estados Unidos Mexicanos, Juzgado Séptimo de Distrito en Materia Civil en la Ciudad de México, dos de octubre de dos mil veintiséis. En los autos del juicio de amparo indirecto número 1084/2026-VIII, promovido por Alejandro Hernández Sánchez, representante de Misión de Desarrollo Micro Empresarial México, Sociedad Anónima de Capital Variable, Sociedad Financiera de Objeto Múltiple entidad no Regulada, contra actos del Juez Trigésimo Quinto Civil de la Ciudad de México, en dos de octubre del año en curso, se dictó el auto po",
+      "topics": [
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803371"
+    },
+    {
+      "id": "dof-5803372",
+      "title": "Aviso REF:582035",
+      "headline": "Aviso REF:582035",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Tercer Tribunal Colegiado en Materias Civil y de Trabajo del Decimoséptimo Circuito Chihuahua, Chihuahua EDICTO Juicio de amparo directo laboral 653/2025 Terceros interesados: Grupo Famsa, Sociedad Anónima Bursátil de Capital Variable, Expomuebles, Sociedad Anónima de Capital Variable; Corporación de Servicios Ejecutivos Famsa, Sociedad Anónima de Capital Variable; Famsa del Pacífico, Sociedad Anónima de Capital Variable; Famsa del Centro, Sociedad Anónima de Capital Variable; Fabricantes Muebleros, Sociedad Anónima de Capital Variable; Famsa Metropolitano, Sociedad Anónima de Capital Variable; Impulsora Promobien, Sociedad Anónima de Capital Variable;",
+      "topics": [
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803372"
+    },
+    {
+      "id": "dof-5803373",
+      "title": "Aviso REF:582081",
+      "headline": "Aviso REF:582081",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Secretaría de Seguridad y Protección Ciudadana PUBLICACIÓN DE SANCIÓN El veinte de octubre de dos mil veintiséis, en el expediente administrativo número DGSP/DELC/PAS/209/ 2026 , que obra en los archivos de la Dirección General de Seguridad Privada, se impuso a la prestadora de servicios de seguridad S.P.E. SEGURIDAD PRIVADA Y LOGISTICA, S.A. DE C.V., con número de Registro Federal Permanente DGSP/137-25/5311, y domicilio ubicado AV. JACARANDAS NUM. MZ. 94, LT. 15, INT. 3, COL. TRES DE MAYO AMPLIACION, C.P. 54765, CUAUTITLAN IZCALLI, MEXICO , la siguiente sanción: 1) AMONESTACIÓN con difusión pública en la página de internet de la Secretaría de Seguridad y Protección Ciudadana, previ",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803373"
+    },
+    {
+      "id": "dof-5803374",
+      "title": "Aviso REF:581708",
+      "headline": "Aviso REF:581708",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Juzgado Primero de Distrito en el Estado Xalapa de Equez., Ver. EDICTO Al tercero interesado Iván Gómez Mendiola : Se informa que el juicio de amparo 1191/2025, fue promovido por Juana Quilacio Salas , por propio derecho, contra el acuerdo de 29 de septiembre de dos mil 25, dictado en el expediente 1731/2024 por el Tribunal Unitario Agrario Distrito 31 de esta ciudad . Deberá presentarse ante este Juzgado Primero ubicado en Avenida Culturas Veracruzanas, ciento veinte, colonia Reserva Territorial, edificio sede del Poder Judicial de la Federación , dentro del plazo de treinta días, contado a partir del siguiente al de la última publicación del edicto, para imponerse del asunto, con e",
+      "topics": [
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803374"
+    },
+    {
+      "id": "dof-5803375",
+      "title": "Aviso REF:582041",
+      "headline": "Aviso REF:582041",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Primer Tribunal Laboral Federal de Asuntos Individuales en el Estado de México, con sede en Toluca EDICTO En el juicio 240/2026, promovido por Elizabeth Corral Fabela , se ordenó emplazar a juicio por edictos a las demandadas Barbara Rincon Gallardo Zuñiga, Fernando García Sada, María Susana Sandoval García, Edgar Evel Sandoval Tamez, Promotora Regia de RH, SA de CV, Cobranza Positiva, SA de CV, Infra Connect TR, SAPI de CV, Financiera Suma SOFOM ENR y Financiera Sum SOFOM ENR, para que se apersonen ante este tribunal, dentro del término de 38 días hábiles, contados a partir del siguiente al de la última publicación de este edicto, en Av. Sor Juana Inés de la Cruz 302 Sur, Col. Centr",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803375"
+    },
+    {
+      "id": "dof-5803376",
+      "title": "Aviso REF:582033",
+      "headline": "Aviso REF:582033",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Juzgado Decimosegundo de Distrito Estado de Chihuahua EDICTO Para emplazar a PAE Proyección y Administración Empresarial, Sociedad Anónima de Capital Variable y/o Proyección y Administración Empresarial, Sociedad Anónima de Capital Variable, tercero interesado, en el juicio de amparo 855/2024-4-2, promovido por Raúl Emmanuel Valenzuela Esneyra, contra actos de la Junta Especial Número Veintiséis de la Federal de Conciliación y Arbitraje, con sede en Chihuahua, Chihuahua, que hizo consistir en el auto de catorce de marzo de dos mil veinticuatro, que desechó de plano el recurso de revisión planteado en veinticinco de octubre de dos mil veintidós, dentro del juicio laboral 1405/2016 y s",
+      "topics": [
+        "Administrativo",
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803376"
+    },
+    {
+      "id": "dof-5803377",
+      "title": "Aviso REF:582040",
+      "headline": "Aviso REF:582040",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Primer Tribunal Colegiado en Materias Civil y de Trabajo del Decimoséptimo Circuito en Chihuahua, Chihuahua EDICTO: TERCERO INTERESADA Asociación Civil Mexicana de Cultura y Servicio Social, Asociación Civil. Por este medio, con fundamento en el artículo 27, fracción III, inciso c), de la Ley de Amparo, en relación con el numeral 315 del Código Federal de Procedimientos Civiles, aplicado supletoriamente a la ley en mención, conforme a su numeral 2º, y en cumplimiento a lo ordenado en dieciocho de septiembre de dos mil veinticinco, dictado en el juicio de amparo 295/2025, del orden del Primer Tribunal Colegiado en Materias Civil y de Trabajo del Decimos",
+      "topics": [
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803377"
+    },
+    {
+      "id": "dof-5803378",
+      "title": "Aviso REF:582028",
+      "headline": "Aviso REF:582028",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Juzgado Tercero de Distrito en el Estado Piedras Negras, Coahuila EDICTO Se emplaza a la tercera interesada Eugenia Alejandra de la Garza Gómez de la demanda de amparo promovida por Bernardino Delgadillo Alba en su carácter de defensor particular de Oralia Espinoza Ramos a la cual le correspondió el número 833/2026 en auto admisorio de diez de junio de dos mil veintiséis contra las autoridades responsables Juez de Primera Instancia en Materia Penal del Sistema Acusatorio y Oral del Distrito Judicial de la Región Carbonífera con residencia en Sabinas Coahuila de Zaragoza y Agente del Ministerio Público adscrito a la Unidad de Tramitación Masiva de Casos",
+      "topics": [
+        "Fiscal",
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803378"
+    },
+    {
+      "id": "dof-5803379",
+      "title": "Aviso REF:582098",
+      "headline": "Aviso REF:582098",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado Dirección de Administración y Finanzas Subdirección de Obras y Contratación EDICTO JAAP Diseño y Construcción, S.A. de C.V. Ing. José Abraham Pérez Pérez Administrador Único y/o bien quien tenga facultades de representación acreditables. El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en lo sucesivo \"El Instituto\", por conducto de la Lic. Almendra Lorena Ortiz Genis, entonces Directora de Administración y Finanzas, en términos de la fracción XIII del artículo 51 e inciso s) de la fracción VII del artículo 60, en relación con el Quinto y el Sexto Transitorio del Estatuto Orgánico ",
+      "topics": [
+        "Fiscal",
+        "Administrativo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803379"
+    },
+    {
+      "id": "dof-5803380",
+      "title": "Aviso REF:581975",
+      "headline": "Aviso REF:581975",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Juzgado Cuarto de Distrito en Materia Civil en la Ciudad de México EDICTO TERCERO INTERESADO: \" EDUARDO HERRERA SOTO \" En los autos del juicio de amparo 842/2026 del índice de este órgano jurisdiccional, promovido por Pedro Antonio Herrera Maldonado; contra actos de la Cuarta Sala Familiar del Poder Judicial de la Ciudad de México, cuya demanda se admitió el veintidós de junio de dos mil veintiséis y con fundamento en los artículos 27, fracción III, inciso b), párrafo segundo de la Ley de Amparo y 315 del Código Federal de Procedimientos Civiles de aplicación supletoria, se ordena emplazar por este medio a la parte tercera interesada Eduardo Herrera So",
+      "topics": [
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803380"
+    },
+    {
+      "id": "dof-5803381",
+      "title": "Aviso REF:581740",
+      "headline": "Aviso REF:581740",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Tribunal Colegiado del Trigésimo Primer Circuito Campeche, Camp. EDICTO: TRIBUNAL COLEGIADO DEL TRIGÉSIMO PRIMER CIRCUITO. En el juicio de amparo directo 1351/ 2026, promovido por Ceferino Fierro Gaspar , se ordena emplazar a los tercero interesados Guadalupe Fieros Gaspar y Marcelino del Carmen Martínez Díaz , haciéndosele saber que cuenta con TREINTA DÍAS contados a partir de la última publicación de edictos, para que comparezca a este tribunal colegiado a defender sus derechos y señale domicilio en esta ciudad donde oír y recibir notificaciones, apercibida que de no hacerlo, las posteriores se le harán por lista que se fije en estrados, lo anterior ",
+      "topics": [
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803381"
+    },
+    {
+      "id": "dof-5803382",
+      "title": "Aviso REF:582038",
+      "headline": "Aviso REF:582038",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Primer Tribunal Colegiado en Materias Civil y de Trabajo del Decimoséptimo Circuito en Chihuahua, Chihuahua EDICTO: TERCERO INTERESADA Distribuidora del Sur Tonali, Sociedad Anónima de Capital Variable . Por este medio, con fundamento en el artículo 27, fracción III, inciso c), de la Ley de Amparo, en relación con el numeral 315 del Código Federal de Procedimientos Civiles, aplicado supletoriamente a la ley en mención, conforme a su numeral 2º, y en cumplimiento a lo ordenado en doce de septiembre de dos mil veinticinco, dictado en el juicio de amparo 736/2025, del orden del Primer Tribunal Colegiado en Materias Civil y de Trabajo del Decimoséptimo Cir",
+      "topics": [
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803382"
+    },
+    {
+      "id": "dof-5803383",
+      "title": "Aviso REF:582034",
+      "headline": "Aviso REF:582034",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Juzgado Cuarto de Distrito en La Laguna Torreón, Coah. EDICTO Prestamos Felices en 15 minutos, Sociedad Anónima de Capital Variable SOFOM E.N.R., por conducto de quien legalmente la represente. Tercero Interesado En los autos del juicio de amparo 363/2026, promovido por Eloisa Nicanor CastIllo, contra actos del Juez Segundo de Primera Instancia en Materia Mercantil, del Distrito Judicial de Torreón, Coahuila, con sede en esta ciudad y otras autoridades responsables , radicado en este Juzgado Cuarto de Distrito en La Laguna, se ha dictado un auto en el cual se señaló a usted Prestamos Felices en 15 minutos, Sociedad Anónima de Capital Variable SOFOM E.N.R., por conducto de quien legal",
+      "topics": [
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803383"
+    },
+    {
+      "id": "dof-5803384",
+      "title": "Aviso REF:582100",
+      "headline": "Aviso REF:582100",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado Dirección de Administración y Finanzas Subdirección de Obras y Contratación EDICTO Tadeo Consultores S.A. de C.V. C. Fabiola Margarita Verduzco García Herrera Administrador Único y/o bien quien tenga facultades de representación acreditables. El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en lo sucesivo \"El Instituto\", por conducto de la Lic. Almendra Lorena Ortiz Genis, entonces Directora de Administración y Finanzas, en términos de la fracción XIII del artículo 51 e inciso s) de la fracción VII del artículo 60, en relación con el Quinto y el Sexto Transitorio del Estatuto Orgá",
+      "topics": [
+        "Fiscal",
+        "Administrativo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803384"
+    },
+    {
+      "id": "dof-5803385",
+      "title": "Aviso REF:582044",
+      "headline": "Aviso REF:582044",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Tribunal Federal de Justicia Administrativa Sala Especializada en Materia de Propiedad Intelectual Expediente: 192/26-EPI-01-10 Actora: Nike Innovate C.V. \" EDICTO \" ELIRAN ZAHRIA En los autos del juicio contencioso administrativo número 192/26-EPI-01-10, promovido por NIKE INNOVATE C.V., en contra del Coordinador Departamental de Examen de Marcas \" C \" del Instituto Mexicano de la Propiedad Industrial, en el que se negó el registro de la marca FLIGHT y Diseño, y se ordenó emplazar a ELIRAN ZAHRIA en su carácter de tercero interesado al presente juicio por medio de edictos, con fundamento en los artículos 14, penúltimo párrafo, 18 de la Ley Federal de Procedimiento Contencioso Admini",
+      "topics": [
+        "Fiscal",
+        "Administrativo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803385"
+    },
+    {
+      "id": "dof-5803386",
+      "title": "Aviso REF:582021",
+      "headline": "Aviso REF:582021",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Centro de Justicia Penal Federal en el Estado de Guerrero, con sede en Acapulco EDICTO CITACIÓN PARA FAMILIARES DE PABLO PEÑALOZA PEÑALOZA Acapulco de Juárez, Guerrero, veintitrés de septiembre de dos mil veintiséis. Visto el estado de autos en el expediente SIPE 740/2022, derivado de la causa penal 199/2022 se advierte dado que no fue posible localizar domicilio o familiares del sentenciado Pablo Peñaloza Peñaloza en el domicilio señalado en autos, con apoyo en los preceptos 82, fracción III, del Código Nacional de Procedimientos Penales, se ordena practicar la notificación de este proveído por medio de edictos, donde se precise: BILLETE DE DEPÓSITO A",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803386"
+    },
+    {
+      "id": "dof-5803387",
+      "title": "Aviso REF:582043",
+      "headline": "Aviso REF:582043",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Primer Tribunal Colegiado en Materias Civil y de Trabajo del Decimoséptimo Circuito en Chihuahua, Chihuahua EDICTO: TERCERO INTERESADA Alimentos Básicos de Chihuahua, Sociedad Anónima de Capital Variable y Unión de Ganaderos Lecheros de Juárez, Sociedad Anónima de Capital Variable. Por este medio, con fundamento en el artículo 27, fracción III, inciso c), de la Ley de Amparo, en relación con el numeral 315 del Código Federal de Procedimientos Civiles, aplicado supletoriamente a la ley en mención, conforme a su numeral 2º, y en cumplimiento a lo ordenado en dieciséis de mayo de dos mil veinticinco, dictado en el juicio de amparo 710/2024, del orden del ",
+      "topics": [
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803387"
+    },
+    {
+      "id": "dof-5803388",
+      "title": "Aviso REF:582031",
+      "headline": "Aviso REF:582031",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Juzgado Tercero Distrito en el Estado de Aguascalientes, Aguascalientes EDICTO Para emplazar a: Pablo Rafael Rodríguez Bolio y Diego Rafael Rodríguez Muñoz. En el juicio de amparo indirecto número 455/2026-7 y sus acumulados 460/2026 y 464/2026 , promovido por Carlos Omar Mondragón Encampira, Jesús Alfredo Sainz León, Héctor Armando Reyes Seralde, Jimmy Javier Gómez Espinosa, Jorge Alberto Cerón López y Marco Antonio Acosta Guerrero , contra actos del Juzgado Penal del Primer Partido Judicial con sede en el Estado de Aguascalientes , se ordenó emplazar por medio de edictos como lo establece el artículo 27, fracción III, inciso b), de la Ley de Amparo, a los terceros interesados Pablo",
+      "topics": [
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803388"
+    },
+    {
+      "id": "dof-5803389",
+      "title": "Aviso REF:581500",
+      "headline": "Aviso REF:581500",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Juzgado Séptimo de Distrito en Materia de Amparo Civil, Administrativa y de Trabajo y de Juicios Federales en el Estado de Puebla EDICTO Martha Vidals Rosas Persona Tercera Interesada En los autos del juicio de amparo número 899/2026, del índice de este Juzgado , promovido por Patricio Vidals Rosas , contra actos del Tribunal Unitario Agrario del Distrito Cuarenta y Siete, con sede en la Ciudad de Puebla y otras autoridades, de quienes reclama la falta de emplazamiento al juicio de jurisdicción voluntaria 840/2024, del índice del Tribunal Unitario Agrario del Distrito Cuarenta y Siete, y como consecuencia todo lo actuado; incluyendo la expedición del certificado parcelario del inmueb",
+      "topics": [
+        "Fiscal",
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803389"
+    },
+    {
+      "id": "dof-5803390",
+      "title": "Aviso REF:581960",
+      "headline": "Aviso REF:581960",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Cuarto Tribunal Colegiado en Materia Civil del Tercer Circuito Zapopan, Jalisco EDICTOS En el Amparo Directo 455 / 2026 , del índice del Cuarto Tribunal Colegiado en Materia Civil del Tercer Circuito, promovido por BANCO DEL BAJÍO, SOCIEDAD ANÓNIMA, INSTITUCIÓN DE BANCA MÚLTIPLE, reclamando del Juez Décimo Sexto en Materia Oral Mercantil del Primer Partido Judicial del Estado, la resolución dictada el veintiuno de mayo último, en el expediente 377/23; se ordenó emplazar por edictos al tercero interesado MARIO HUMBERTO PRECIADO CERVANTES; quien deberá comparecer a este tribunal, a deducir sus derechos, dentro del plazo de treinta días hábiles , contado ",
+      "topics": [
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803390"
+    },
+    {
+      "id": "dof-5803392",
+      "title": "Aviso REF:582078",
+      "headline": "Aviso REF:582078",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Primer Tribunal Colegiado en Materias Civil y de Trabajo del Decimoséptimo Circuito en Chihuahua, Chihuahua EDICTO: TERCERO INTERESADO Renata Ochoa Aguilar, Camila Ochoa Aguilar y Maurilio Ochoa Molina. Por este medio, con fundamento en el artículo 27, fracción III, inciso b), segundo párrafo, de la Ley de Amparo, en relación con el numeral 315 del Código Federal de Procedimientos Civiles, aplicado supletoriamente a la ley en mención, conforme a su numeral 2º, y en cumplimiento a lo ordenado en trece de octubre de dos mil veintiséis, dictado en el juicio de amparo 640/2026, del orden del Primer Tribunal Colegiado en Materias Civil y de Trabajo del Deci",
+      "topics": [
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803392"
+    },
+    {
+      "id": "dof-5803393",
+      "title": "Aviso REF:581712",
+      "headline": "Aviso REF:581712",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Juzgado Tercero de Distrito en Materia Penal en el Estado de Puebla, con residencia en San Andrés Cholula EDICTO Axel Omar García Tanguma representado por Rubí Esmeralda Tanguma Pérez y/o José Luis García Rangel, tercero interesado en el juicio de amparo 430/2026 , de este Juzgado Tercero de Distrito en Materia Penal en el Estado de Puebla, promovido por Oscar Jaime León Flores, en su carácter de defensor particular del quejoso Miguel Díaz Hernández , contra actos de Julio César Ortiz Castro, Juez de Oralidad Penal y Ejecución de la Región Judicial Oriente, con sede en Chalchicomula de Sesma, Ciudad Serdán, Puebla, en función de Juez de Control ; se ha ordenado emplazar por edictos a",
+      "topics": [
+        "Fiscal",
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803393"
+    },
+    {
+      "id": "dof-5803394",
+      "title": "Aviso REF:581904",
+      "headline": "Aviso REF:581904",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Juzgado Primero de Distrito en Materia Administrativa en la Ciudad de México EDICTO En cumplimiento al auto de veintiséis de mayo de dos mil veintiséis, dictado en el juicio de amparo 2227/ 2024, promovido por Virginia González Bernal; Directora Ejecutiva de Procesos Contenciosos de la Secretaría de Infraestructura, Comunicaciones y Transportes, en representación del Titular de la Secretaría de Infraestructura, Comunicaciones y Transporte , contra actos de Arturo Lemus Contreras, Magistrado del Tribunal Unitario Agrario del Distrito 40 y otra, a las cuales en esencia se les reclama la emisión y ejecución del acuerdo de veinticuatro de octubre de dos mi",
+      "topics": [
+        "Fiscal",
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803394"
+    },
+    {
+      "id": "dof-5803395",
+      "title": "Aviso REF:581726",
+      "headline": "Aviso REF:581726",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Segundo Tribunal Colegiado en Materias Penal y Civil del Vigésimo Circuito, con residencia en Tuxtla Gutiérrez, Chiapas EDICTO A LA TERCERA INTERESADA MARÍA GÓMEZ DÍAZ, EN SU CALIDAD DE VÍCTIMA INDIRECTA Se hace de su conocimiento que Amadeo Hernández López (también identificado en la causa de origen como Celin Hernández Hernández), promovió juicio de amparo directo en contra de la resolución de veinticuatro de abril de dos mil veintiséis, dictada por la autoridad responsable Sala Regional Colegiada Mixta Zona 03, San Cristóbal, del Tribunal Superior de Justicia del Estado, con residencia en esa ciudad, en el toca penal 22-A-1P03/2026-J.A. Asimismo, la",
+      "topics": [
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803395"
+    },
+    {
+      "id": "dof-5803396",
+      "title": "Aviso REF:582105",
+      "headline": "Aviso REF:582105",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Juzgado Décimo Segundo de Distrito en Materia Civil en la Ciudad de México Edificio sede del Poder Judicial de la Federación en San Lázaro ubicado en Eduardo Molina # 2, colonia Del Parque, delegación Venustiano Carranza, código postal 15960 Acceso 8, nivel plaza \" 2026, Año de Margarita Maza Parada \" EDICTO. En los autos del Procedimiento de Liquidación Judicial 329/2026, iniciado por el Instituto para la Protección al Ahorro Bancario, Organismo Descentralizado de la Administración Pública Federal, respecto de CIBanco, Sociedad Anónima, Institución de Banca Múltiple, en liquidación, el quince de octubre de dos mil veintiséis, se dictó la sentencia de ",
+      "topics": [
+        "Fiscal"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803396"
+    },
+    {
+      "id": "dof-5803397",
+      "title": "Aviso REF:582018",
+      "headline": "Aviso REF:582018",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Primer Tribunal Colegiado en Materias Penal y Civil del Vigésimo Circuito, con residencia en Tuxtla Gutiérrez EDICTO: IRMA RUIZ NÚÑEZ Y MOISÉS RUIZ NÚÑEZ (TERCERA INTERESADA) En el juicio de amparo directo 503/2026, promovido por Roberto Carlos Monterrosa López, solicitó el amparo y protección de la Justicia Federal, como autoridad responsable al Tribunal de Alzada, Zona 03 San Cristóbal, del Tribunal Superior de Justicia del Estado de Chiapas, con residencia en San Cristóbal de Las Casas; el acto reclamado es la sentencia de ocho de abril de dos mil veintidós, dictada en el toca penal 56-B 1P03/2019, que confirmó la sentencia de primera instancia en l",
+      "topics": [
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803397"
+    },
+    {
+      "id": "dof-5803398",
+      "title": "Aviso REF:582092",
+      "headline": "Aviso REF:582092",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Juzgado Decimocuarto de Distrito en el Estado de México Naucalpan de Juárez Diario Oficial EDICTO Al margen un sello con el escudo nacional que dice: Estados Unidos Mexicanos. Poder Judicial de la Federación, Juzgado 14o de Distrito en el Estado de México, con residencia en Naucalpan de Juárez. A: dieciséis de octubre de dos mil veintiséis. En el juicio de amparo 1329/2026-IV-B, promovido por Suajes Express, Sociedad Anónima de Capital Variable, se ordenó emplazar a la tercero interesada INNOVACIONES 3E+B, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE, para que si a su interés conviene, comparezca a ejercer los derechos que le correspondan en el juicio de ampar",
+      "topics": [
+        "Fiscal",
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803398"
+    },
+    {
+      "id": "dof-5803399",
+      "title": "Aviso REF:582048",
+      "headline": "Aviso REF:582048",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Primer Tribunal Colegiado en Materias Civil y de Trabajo del Decimoséptimo Circuito en Chihuahua, Chihuahua EDICTO: TERCERO INTERESADA Casilda Galaviz Viuda de Pacheco . Por este medio, con fundamento en el artículo 27, fracción III, inciso c), de la Ley de Amparo, en relación con el numeral 315 del Código Federal de Procedimientos Civiles, aplicado supletoriamente a la ley en mención, conforme a su numeral 2º, y en cumplimiento a lo ordenado en diecinueve de agosto de dos mil veinticinco, dictado en el juicio de amparo 883/2023, del orden del Primer Tribunal Colegiado en Materias Civil y de Trabajo del Decimoséptimo Circuito, con sede en Chihuahua, Ch",
+      "topics": [
+        "Litigio y amparo"
+      ],
+      "date": "2026-11-10",
+      "source": "DOF",
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803399"
+    },
+    {
+      "id": "dof-5803400",
+      "title": "Aviso REF:581700",
+      "headline": "Aviso REF:581700",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Juzgado Decimoprimero de Distrito en el Estado de Baja California, con residencia en Tijuana EDICTO Emplazamiento a la persona tercero interesada Edvino Landel Oetling, en términos del artículo 27 fracción III, inciso b), de la Ley de Amparo. En los autos del juicio de amparo 1121/2025-3, promovido por José Manuel Valenzuela Ávalos, en el que reclama: La falta de emplazamiento al expediente 1674/2024, del índice del Juzgado Décimo Segundo de Primera Instancia Civil Especializado en Materia Hipotecaria, con residencia en la ciudad de Tijuana, Baja California. Se ordenó emplazar a Edvino Landel Oetling, por EDICTOS haciéndole saber que podrá presentarse dentro de treinta días contados ",
+      "topics": [
         "Seguridad social y aduanas",
         "Litigio y amparo"
       ],
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803290"
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803400"
     },
     {
-      "id": "dof-5803305",
-      "title": "Aviso REF:581602",
-      "headline": "Aviso REF:581602",
-      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Juzgado Primero de Distrito en Materia Civil en el Estado de Jalisco, con residencia en Zapopan M3-OJ1 Juicio de Amparo 773/2026 EDICTO En los autos del juicio de amparo número 773/2026, promovido por Eréndira Nuño Moreno , con fundamento en el artículo 315 del Código Federal de Procedimientos Civiles, de aplicación supletoria a la Ley de Amparo, se ordena emplazar por este medio a la tercera interesada Ediasa, Sociedad Anónima de Capital Variable , quien debe presentarse dentro del término de treinta días, contados a partir del día siguiente al de la última publicación, a hacer valer sus derechos en el presente juicio, apercibido que de no hacerlo, po",
+      "id": "dof-5803401",
+      "title": "Aviso REF:581460",
+      "headline": "Aviso REF:581460",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Juzgado 1ero. de Distrito en el Estado de Guanajuato Guanajuato EDICTO. Por este conducto, con fundamento en el artículo 27, fracción III, inciso b), de la Ley de Amparo, se ordena emplazar a la tercera interesada: María de los Ángeles Gerez Malo, dentro del juicio de amparo indirecto 761/ 2024-I, promovido por Augusto Juárez Lugo y otros, en representación, de \" EJIDO DE RIOYOS POZO 1 S.P.R. de R.L. \" , contra actos de la Dirección Local Guanajuato y otras autoridades: Fijación preliminar del acto reclamado: la afectación a los derechos de explotación, uso y aprovechamiento que la parte quejosa detenta sobre un pozo de agua ubicado en el \" Ejido de Ri",
       "topics": [
         "Litigio y amparo"
       ],
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803305"
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803401"
     },
     {
-      "id": "dof-5803306",
-      "title": "Aviso REF:581465",
-      "headline": "Aviso REF:581465",
-      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Séptimo Tribunal Laboral Federal de Asuntos Individuales en el Estado de Veracruz, con sede en Xalapa, Veracruz EDICTO Fernando Torre Badillo y/o Fernando Torres Badillo , se hace de su conocimiento que en el juicio laboral 113/2026 promovido por Ana Silvia Hernández Salazar, se le señaló como demandado y el veintinueve de septiembre de dos mil veintiséis se ordenó emplazarlo por edictos de conformidad con el artículo 712, párrafos cuarto y quinto, de la Ley Federal del Trabajo y 239 del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales. Se le hace saber que dentro de T",
-      "topics": [
-        "Fiscal"
-      ],
-      "date": "2026-11-09",
-      "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803306"
-    },
-    {
-      "id": "dof-5803307",
-      "title": "Aviso REF:581906",
-      "headline": "Aviso REF:581906",
-      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Sexto Tribunal Colegiado en Materia Civil del Primer Circuito \" EDICTO \" EN EL JUICIO DE AMPARO DIRECTO CIVIL D.C.304/2026, PROMOVIDO POR LA PARTE QUEJOSA SILVANA GABRIELA GALLARDO AMBRIZ Y MARÍA ESTHER BOULLOSA DOVAL, AMBAS POR DERECHO PROPIO Y GRUPO CONSTRUCTOR ANDES, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE, POR CONDUCTO DE SU APODERADO JOSÉ IGNACIO HUESCA DE LA PEZA, CONTRA EL ACTO ATRIBUIDO A LA PRIMERA SALA CIVIL DEL TRIBUNAL SUPERIOR DE JUSTICIA DE LA CIUDAD DE MÉXICO, EN EL TOCA 1540/2025/1, RADICADO ANTE EL SEXTO TRIBUNAL COLEGIADO EN MATERIA CIVIL DEL PRIMER CIRCUITO, SE ORDENÓ EMPLAZAR AL PRESENTE JUICIO DE AMPARO DIRECTO CIVIL A LAS TERCERAS IN",
-      "topics": [
-        "Litigio y amparo"
-      ],
-      "date": "2026-11-09",
-      "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803307"
-    },
-    {
-      "id": "dof-5803309",
-      "title": "Aviso REF:581722",
-      "headline": "Aviso REF:581722",
-      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Tercer Tribunal Colegiado en Materia de Trabajo del Tercer Circuito Zapopan, Jalisco EDICTO: \" Brianda Zaira Soto Mendoza . \" . En el juicio de Amparo directo 907/2025, Promovente: María Patrocinio Rodríguez Castañeda ; acto reclamado: laudo 10-1-2024, Primera Junta Especial de la Local de Conciliación y Arbitraje en el Estado de Jalisco ; Juicio laboral 281/2018; por tanto, se ordena emplazarle por edictos para que comparezca por sí o por conducto de representante legal, dentro de treinta días hábiles, a partir del siguiente al de la última publicación, para que acuda a este tribunal y, se le corra traslado con la demanda de amparo, a efecto de que defienda sus derechos; con el aper",
-      "topics": [
-        "Litigio y amparo"
-      ],
-      "date": "2026-11-09",
-      "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803309"
-    },
-    {
-      "id": "dof-5803311",
-      "title": "Aviso REF:581489",
-      "headline": "Aviso REF:581489",
-      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Juzgado Cuarto de Distrito en el Estado de Hidalgo EDICTO Para emplazar a: Arvin Yair Benítez Márquez, en el juicio de amparo número 2106/2025-VI-B, promovido por José Enrique Lucas Soto, por propio derecho, contra actos de la Sala Colegiada del Sistema Penal Acusatorio del Tribunal Superior de Justicia en el Estado de Hidalgo, se ordenó emplazar por medio de edictos como lo establece el artículo 27, fracción III, inciso c) de la Ley de Amparo al tercero interesado Arvin Yair Benítez Márquez. Queda en la Secretaría del Juzgado Cuarto de Distrito en el Estado de Hidalgo, copia de la demanda y su escrito aclaratorio, para que comparezca si a sus interese",
+      "id": "dof-5803402",
+      "title": "Aviso REF:581488",
+      "headline": "Aviso REF:581488",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Primer Tribunal Colegiado en Materias Penal y Civil del Vigésimo Circuito, con residencia en Tuxtla Gutiérrez EDICTO: VÍCTOR MANUEL ESPINOSA AGUILAR (TERCERO INTERESADO). En el juicio de amparo directo 92/ 2026, promovido por Sebastián Escobar Vázquez, solicitó el amparo y protección de la Justicia Federal, como autoridad responsable señaló a la Sala Regional Colegiada Mixta, Zona 03 San Cristóbal de Las Casas, del Tribunal Superior de Justicia del Estado de Chiapas; el acto reclamado es la sentencia de dos de febrero de dos mil veintitrés, dictada en el toca penal 47-B-1P03/2019, en la que se modificó la sentencia definitiva, dictada en la causa penal",
       "topics": [
         "Fiscal",
         "Litigio y amparo"
       ],
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803311"
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803402"
     },
     {
-      "id": "dof-5803312",
-      "title": "Aviso REF:582039",
-      "headline": "Aviso REF:582039",
-      "summary": "CIBanco, S .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} CIBanco, S.A. Institución de Banca Múltiple en Liquidación NOTIFICACIÓN A LOS TENEDORES Y CUSTODIOS DE LOS CERTIFICADOS BURSÁTILES FIDUCIARIOS EMITIDOS CON LA CLAVE DE PIZARRA MN127CB SERIE 15. Por medio del presente, se notifica a los tenedores y custodios de los certificados bursátiles fiduciarios con la clave de pizarra: MN127CB Serie 15 , emitidos al amparo de: El contrato de fideicomiso irrevocable de emisión de certificados bursátiles fiduciarios identificado como F/ 1295 de fecha 21 de diciembre de 2012, celebrado entre Servicios Inmobiliarios de Posturas, S.A.P.I. de C.V. (antes Servicios Inmobiliarios de Posturas, S.A. de C.V.), como Fideicomitente, y Banco Monex, S.A., Institución de Banca Múltiple, Monex Grupo ",
-      "topics": [
-        "Fiscal",
-        "Litigio y amparo"
-      ],
-      "date": "2026-11-09",
-      "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803312"
-    },
-    {
-      "id": "dof-5803313",
-      "title": "Aviso REF:582015",
-      "headline": "Aviso REF:582015",
-      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Juzgado Cuarto de Distrito en Materia Civil en el Estado de Jalisco EDICTO PARA EMPLAZAR. \" Miguel Flores Ruiz \" Amparo indirecto 1359/2025, promovente: Lucia Morales Luna: acto reclamado; sentencia interlocutoria de liquidación de alimentos, Juez Primero de lo Familiar del Primer Partido Judicial del Estado de Jalisco: audiencia constitucional: 9 de octubre de 2026: deberá de comparecer dentro de treinta días hábiles, para que acudan a este Juzgado de Distrito y, se les corra traslado con la demanda de amparo a efecto de que defienda sus derechos; con el apercibimiento que de no hacerlo, las ulteriores notificaciones, aun personales se harán por lista, publicación de conformidad con",
+      "id": "dof-5803357",
+      "title": "Aviso REF:581758",
+      "headline": "Aviso REF:581758",
+      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Juzgado Decimoprimero de Distrito en Materia Penal en la Ciudad de México EDICTO En los autos del juicio de amparo 253/2026, promovido por María Iris Ramírez Poblete , contra el acto de la Segunda Sala Penal del Tribunal Superior de Justicia de la Ciudad de México , se ordenó emplazar por edictos a la persona tercero interesada Inmuebles PRIDI Sociedad Anónima de Capital Variable , los cuales se publicarán por tres veces de tres en tres días en el medio de comunicación procesal oficial del Poder Judicial de la Federación y se le concede un término de treinta días hábiles contado a partir de la última publicación, para que comparezca a juicio a hacer va",
       "topics": [
         "Litigio y amparo"
       ],
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803313"
-    },
-    {
-      "id": "dof-5803314",
-      "title": "Aviso REF:581476",
-      "headline": "Aviso REF:581476",
-      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Primer Tribunal Colegiado del Vigésimo Séptimo Circuito Cancún, Q. Roo EDICTO PC INDUSTRIAL AGLASKHOM. PC INDUSTRIAL AGLASKHOM SERVICIOS EN TELECOMUNICACIONES, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE. AGLASKHOM SERVICIOS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE. LÁZARO PUC PAT. PAUL ORTEGA PUC ZARATE. ARMANDO ORTEGA ZARATE. TERCERAS INTERESADAS EN EL EXPEDIENTE RELATIVO AL JUICIO DE AMPARO DIRECTO 694/2023-VI, EN EL LUGAR EN DONDE SE ENCUENTREN; En autos del expediente 694/2023-VI, formado con motivo de la demanda de amparo directo promovida por Luis Damián Chi Nahuat, en contra del laudo de veintidós de agosto de dos mil veintitrés dictada en autos del expe",
-      "topics": [
-        "Litigio y amparo"
-      ],
-      "date": "2026-11-09",
-      "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803314"
-    },
-    {
-      "id": "dof-5803315",
-      "title": "Aviso REF:581584",
-      "headline": "Aviso REF:581584",
-      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Juzgado Segundo de Distrito en el Estado de México Naucalpan de Juárez EDICTO En cumplimiento a lo ordenado por auto de nueve de octubre de dos mil veintiséis , dictado en el juicio de amparo 798/2026-V , promovido por Diego Osorio Alcántara, contra actos del Tercer Tribunal de Alzada en Materia Penal de Tlalnepantla, del Tribunal Superior de Justicia del Estado de México ; se emplaza por esta vía a las terceras interesadas a) Skn Imagen y Belleza , sociedad anónima de capital variable y b) U- RENT-IT , sociedad anónima promotora de inversión de capital variable y c), al ofendido Christian Esaú García Hernández , a efecto de que comparezcan al juicio d",
-      "topics": [
-        "Litigio y amparo"
-      ],
-      "date": "2026-11-09",
-      "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803315"
-    },
-    {
-      "id": "dof-5803316",
-      "title": "Aviso REF:582049",
-      "headline": "Aviso REF:582049",
-      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Órgano de Administración Judicial Tercer Tribunal Colegiado en Materia Penal y de Trabajo en Tampico, Tamaulipas EDICTO En el juicio de amparo 424/2024, promovido por María Concepción Román Pérez, se dictó el siguiente acuerdo: \"Tampico, Tamaulipas, veintiocho de septiembre de dos mil veintiséis. ... se ordena emplazar por edictos a AQUARAMA, los que deberán publicarse por tres veces, de tres en tres días, en el Diario Oficial de la Federación, haciéndole saber que en el juicio de amparo 424/2024, contra actos de la Junta Especial Número Treinta y Siete de la Federal de Conciliación y Arbitraje, con residencia en Ciudad Victoria, Tamaulipas, se reclama",
-      "topics": [
-        "Litigio y amparo"
-      ],
-      "date": "2026-11-09",
-      "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803316"
-    },
-    {
-      "id": "dof-5803317",
-      "title": "Aviso REF:581498",
-      "headline": "Aviso REF:581498",
-      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Juzgado Sexto de Distrito en Materia de Amparo Civil, Administrativa y de Trabajo y de Juicios Federales en el Estado de Puebla San Andrés Cholula, Puebla EDICTO TERCERA INTERESADA : Sandra Martínez Navarro . En cumplimento al auto 7 abril 2026 del amparo 1225/2025 del Juzgado Sexto de Distrito en Materia de Amparo Civil, Administrativa y de Trabajo y de Juicios Federales en el Estado de Puebla, promovido por Xochitl María Vargas Valderrabano contra Rectora de Universidad de Ciencias Policiales y Seguridad del Estado de Puebla y otras , reclama falta de emplazamiento a procedimiento que concluyó con baja definitiva de curso de formación inicial para policía de proximidad. Sandra Mart",
-      "topics": [
-        "Fiscal",
-        "Litigio y amparo"
-      ],
-      "date": "2026-11-09",
-      "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803317"
-    },
-    {
-      "id": "dof-5803318",
-      "title": "Aviso REF:581276",
-      "headline": "Aviso REF:581276",
-      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Tercer Tribunal Colegiado en Materias Administrativa y Civil del Vigésimo Segundo Circuito, en Querétaro, Qro. Amparo Directo Civil 343/2026 EDICTO: En el amparo directo civil 343/2026 , promovido por Domingo Sierra Aguilar , contra el acto reclamado a la Segunda Sala Civil del Tribunal Superior de Justicia del Estado de Querétaro, consistente en la resolución de sentencia de nueve de abril de dos mil veintiséis, dictada en el toca civil 1343/2026 , con fundamento en el artículo 27, fracción III, inciso b), de la Ley de Amparo, en relación con el diverso 315 del Código Federal de Procedimientos Civiles, de aplicación supletoria, se ordena emplazar por ",
-      "topics": [
-        "Fiscal",
-        "Litigio y amparo"
-      ],
-      "date": "2026-11-09",
-      "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803318"
-    },
-    {
-      "id": "dof-5803319",
-      "title": "Aviso REF:581581",
-      "headline": "Aviso REF:581581",
-      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Juzgado Octavo de Distrito en el Estado de México, con residencia en Naucalpan de Juárez Sección Amparo Juicio de Amparo Indirecto 2253/2025-A-I EDICTOS. Catalina Segura Estrada, promovió juicio de amparo 2253/2025 , contra actos que reclama de la Primera Sala Colegiada Civil Región Tlalnepantla en el Estado de México , consistente en la resolución de veintisiete de octubre de dos mil veinticinco, dictada por la autoridad responsable. Asimismo, se hace del conocimiento que se señalaron las diez horas con veinte minutos del veintiuno de octubre de dos mil veintiséis , para que tenga verificativo la audiencia constitucional. Se señaló como tercera intere",
-      "topics": [
-        "Litigio y amparo"
-      ],
-      "date": "2026-11-09",
-      "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803319"
-    },
-    {
-      "id": "dof-5803320",
-      "title": "Aviso REF:581486",
-      "headline": "Aviso REF:581486",
-      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Órgano de Administración Judicial Primer Tribunal Colegiado del Vigésimo Noveno Circuito Pachuca de Soto, Hidalgo TEXTO DE EDICTOS TERCERO INTERESADO: LUIS DANIEL MONROY REYES. \" Con fundamento en el artículo 27, fracción III, inciso c), de la Ley de Amparo, se ordena la siguiente publicación: Se ordena la publicación de edictos a efecto de lograr el emplazamiento del tercero interesado Luis Daniel Monroy Reyes, a quien se hace del conocimiento que en el Primer Tribunal Colegiado del Vigésimo Noveno Circuito, con residencia en Pachuca de Soto, Hidalgo, se encuentra radicado el juicio de amparo directo administrativo 349/2026, promovido por Gilberto Góm",
-      "topics": [
-        "Litigio y amparo"
-      ],
-      "date": "2026-11-09",
-      "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803320"
-    },
-    {
-      "id": "dof-5803321",
-      "title": "Aviso REF:581358",
-      "headline": "Aviso REF:581358",
-      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Juzgado Cuarto de Distrito en Materia Penal en la Ciudad de México J.A. 154/2026 EDICTOS. AL MARGEN, EL ESCUDO NACIONAL QUE DICE: ESTADOS UNIDOS MEXICANOS.- PODER JUDICIAL DE LA FEDERACION. JUZGADO CUARTO DE DISTRITO EN MATERIA PENAL EN LA CIUDAD DE MÉXICO. En los autos del juicio de amparo 154/2026-4 , promovido por Jaime Morales Coronel , contra actos del Juzgado Trigésimo Primero Penal de la Ciudad de México hoy Juzgado Trigésimo Tercero Penal en la Ciudad de Méxic o, se ordenó emplazar por edictos a la víctima tercera interesada de iniciales reservadas L.F.A.L . , con apoyo en el artículo 27, fracción III, inciso b), párrafo segundo de la Ley de Am",
-      "topics": [
-        "Litigio y amparo"
-      ],
-      "date": "2026-11-09",
-      "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803321"
-    },
-    {
-      "id": "dof-5803322",
-      "title": "Aviso REF:581555",
-      "headline": "Aviso REF:581555",
-      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Juzgado Cuarto de Distrito en Materia Penal en el Estado de Jalisco Puente Grande, Jal. EDICTO Al margen, el Escudo Nacional con la leyenda que a la letra dice: Estados Unidos Mexicanos. Juzgado Cuarto de Distrito en Materia Penal en el Estado de Jalisco. Puente Grande, Jal. En cumplimiento al auto de diez de septiembre de dos mil veintiséis, dictado en el juicio de amparo 769/ 2025-2, del índice de este Juzgado, promovido por Julio César Valdez López contra actos de la Procuraduría General de Justicia de Baja California y de otras autoridades, de quienes reclama: la inscripción y el reporte de robo en el Registro Público Vehicular (REPUVE) y en Plataforma México del vehículo de su p",
-      "topics": [
-        "Litigio y amparo"
-      ],
-      "date": "2026-11-09",
-      "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803322"
-    },
-    {
-      "id": "dof-5803304",
-      "title": "Aviso REF:581461",
-      "headline": "Aviso REF:581461",
-      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Juzgado Séptimo de Distrito en Materia de Trabajo en el Estado de Jalisco EDICTO Tercero interesado: \" Hergo Soluciones Empresariales, Sociedad Anónima de Capital Variable \" . En el juicio de amparo 2509/2025, promovido por Gabriel López Ramos, contra actos de la Décima Segunda Junta Especial de la Local de Conciliación y Arbitraje en el Estado de Jalisco; de quien reclama: la interlocutoria de diez de octubre de dos mil veinticinco, en autos del expediente laboral 551/2012 de su índice, en el que se declaró improcedente el incidente de sustitución patronal, intentado en contra de \" las Cervezas Modelo de Occidente Sociedad Anónima de Capital Variable \" , al no haberse acreditado ten",
-      "topics": [
-        "Litigio y amparo"
-      ],
-      "date": "2026-11-09",
-      "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803304"
-    },
-    {
-      "id": "dof-5803303",
-      "title": "Aviso REF:581579",
-      "headline": "Aviso REF:581579",
-      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Juzgado Sexto de Distrito en Materia Civil en la Ciudad de México Pral. 328/2026 EDICTO JESÚS ROSTRO ROJAS TAMBIÉN CONOCIDO COMO JOSÉ DE JESÚS ROSTRO ROJAS. En el juicio de amparo indirecto 328/2026, promovido por Maricela Veloz Navarro, por su propio derecho, contra actos del Juez y Actuario adscritos al Juzgado Cuarto de lo Civil de Proceso Escrito del Tribunal Superior de Justicia y Director del Registro Público de la Propiedad y del Comercio, todos de la Ciudad México; en el que se reclama la falta de emplazamiento al incidente de liquidación de gastos y costas; así como de todo lo actuado en el referido incidente tramitado dentro del juicio ordina",
-      "topics": [
-        "Fiscal",
-        "Litigio y amparo"
-      ],
-      "date": "2026-11-09",
-      "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803303"
-    },
-    {
-      "id": "dof-5803301",
-      "title": "Aviso REF:581284",
-      "headline": "Aviso REF:581284",
-      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Primer Tribunal Laboral Federal de Asuntos Individuales en el Estado de Morelos \" EDICTO \" En los autos del conflicto individual de seguridad social 308/2024, promovido por ANA ISABEL JIMÉNEZ HERNÁNDEZ , contra el INSTITUTO MEXICANO DEL SEGURO SOCIAL y otros , se ORDENA EMPLAZAR a los terceros CARLOS OMAR BELTRÁN CHÁVEZ, WILLIAMS ULISES BELTRÁN CHÁVEZ y NANCY ELIZABETH BELTRÁN CHÁVEZ , por lo que se publicarán edictos dos veces, con un lapso de tres días hábiles entre uno y otro, en uno de los periódicos de mayor circulación en la República Mexicana, en el Diario Oficial de la Federación, que para tal efecto establezca el Poder Judicial de la Federación y en los estrados de este órga",
-      "topics": [
-        "Seguridad social y aduanas"
-      ],
-      "date": "2026-11-09",
-      "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803301"
-    },
-    {
-      "id": "dof-5803300",
-      "title": "Aviso REF:582013",
-      "headline": "Aviso REF:582013",
-      "summary": "Esentia Pipeline de Toluca, S .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Esentia Pipeline de Toluca, S. de R. L. de C.V. TARIFAS DE TRANSPORTE DE GAS NATURAL PERMISO DE TRANSPORTE DE GAS NATURAL POR MEDIO DE DUCTOS G/028/TRA/1998 GASODUCTO PALMILLAS - TOLUCA En cumplimiento a la disposición 21.1 de la Directiva Sobre la Determinación de Tarifas y Traslado de Precios para las Actividades Reguladas en Materia de Gas Natural DIR-GAS-001-2007 ( \" Directiva \" ), y en atención al oficio número F00.07.UH/112529/2026, mediante el cual se dio a conocer el ajuste anual de las tarifas máximas correspondiente al periodo de diciembre de 2025, de conformidad con el artículo 9, fracción I de la Ley de la Comisión Nacional de Energía y la disposición 17.10 de la Directiva, a través de la pr",
-      "topics": [
-        "Fiscal"
-      ],
-      "date": "2026-11-09",
-      "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803300"
-    },
-    {
-      "id": "dof-5803323",
-      "title": "Aviso REF:582047",
-      "headline": "Aviso REF:582047",
-      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Juzgado Primero de Distrito de Amparo en Materia Penal en el Estado de Nayarit EDICTO Al margen un sello oficial del Escudo Nacional En cumplimiento a lo ordenado en autos, se informa a la víctima con iniciales H.E.V.V., que se solicita su intervención para el desahogo de careos procesales en la causa penal 144/2023 (anterior 214/2020), del índice del Juzgado Primero de Distrito en Materia Penal en el Estado de Nayarit ; por lo cual se le requiere remita escrito a este órgano jurisdiccional, donde mencione el domicilio en el que puede ser localizado, algún número telefónico, o en su caso se apersone en las instalaciones del mismo. Datos del juzgado req",
-      "topics": [
-        "Litigio y amparo"
-      ],
-      "date": "2026-11-09",
-      "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803323"
-    },
-    {
-      "id": "dof-5803298",
-      "title": "Aviso REF:581468",
-      "headline": "Aviso REF:581468",
-      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Juzgado Decimoséptimo de Distrito Xalapa, Veracruz EDICTO Alberto Lagunes Rivera, le hago saber: En el juicio de amparo 29/2025, radicado en este Juzgado de Distrito, promovido por Enrique Lagunes Hernández, contra actos de la Magistrada del Tribunal Unitario Agrario del Distrito 31 y otra autoridad, tiene el carácter de tercero interesado y se ordenó emplazarlo por edictos, a lo que deberá presentarse dentro de los 30 días contados a partir del siguiente al de la última publicación; apercibido que, de no hacerlo, las posteriores notificaciones se le harán por lista. Queda a su disposición en la Secretaría del Juzgado copia de la demanda y los actos reclamados son el ilegal y/o falta",
-      "topics": [
-        "Litigio y amparo"
-      ],
-      "date": "2026-11-09",
-      "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803298"
-    },
-    {
-      "id": "dof-5803297",
-      "title": "Aviso REF:581710",
-      "headline": "Aviso REF:581710",
-      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Juzgado Cuarto de Distrito en el Estado de Hidalgo EDICTO Para emplazar a: Alberto Hernández Hernández, José Guadalupe Sánchez Hernández, Emilio Vite Pérez y Agustín Lara de la Cruz, en el juicio de amparo número 1340/2024-VIII-A, promovido por Agustín Garcés Cruz, por propio derecho, contra actos de los Magistrados de la Segunda Sala Penal del Tribunal Superior de Justicia del Estado de Hidalgo, se ordenó emplazar por medio de edictos como lo establece el artículo 27, fracción III, inciso c) de la Ley de Amparo a los terceros interesados Alberto Hernández Hernández, José Guadalupe Sánchez Hernández, Emilio Vite Pérez y Agustín Lara de la Cruz. Queda e",
-      "topics": [
-        "Litigio y amparo"
-      ],
-      "date": "2026-11-09",
-      "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803297"
-    },
-    {
-      "id": "dof-5803296",
-      "title": "Aviso REF:581294",
-      "headline": "Aviso REF:581294",
-      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Juzgado Decimosexto de Distrito en el Estado de Baja California, con residencia en Tijuana EDICTO Emplazamiento la tercero interesada Sucesión intestamentaria a bienes de Héctor Calderón Juárez, por conducto de su albacea Reyna Petra Hernández Castro. En el juicio de amparo número 916/2025-I, que promovió Catalina Altamirano Moreno, contra actos de Juez Décimo Primero de Primera Instancia Civil Especializado en Materia Mercantil del Partido Judicial de Tijuana, Baja California , y otras autoridades , en el que reclamó la ilegal desposesión y lanzamiento, del inmueble identificado como lote número 48 de la manzana 7, de la colonia desarrollo urbano Mata",
-      "topics": [
-        "Fiscal",
-        "Litigio y amparo"
-      ],
-      "date": "2026-11-09",
-      "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803296"
-    },
-    {
-      "id": "dof-5803295",
-      "title": "Aviso REF:581296",
-      "headline": "Aviso REF:581296",
-      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Juzgado Decimosexto de Distrito en el Estado de Baja California, con residencia en Tijuana EDICTO Emplazamiento la tercero interesada Inmobiliaria Sanfi Sociedad de Responsabilidad Limitada. En el juicio de amparo número 4200/2024-I, que promovió Rosario Bertha Robles Serna, contra actos del Juez Quinto de lo Civil, con sede en esta ciudad , y otras autoridades , en el que reclamó la falta de emplazamiento al juicio Ordinario Civil 795/2023, del índice de la aludida autoridad responsable. Por auto de dieciocho de diciembre de dos mil veinticinco, se acordó emplazar a usted, en su carácter de tercero interesada, por medio de edictos que deberán publicar",
-      "topics": [
-        "Fiscal",
-        "Litigio y amparo"
-      ],
-      "date": "2026-11-09",
-      "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803295"
-    },
-    {
-      "id": "dof-5803324",
-      "title": "Aviso REF:582036",
-      "headline": "Aviso REF:582036",
-      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Juzgado Segundo de Distrito en el Estado de Durango, Dgo. EDICTO TERCERA INTERESADA: Forestal San Luis y Zootecnia Agrícola Ganadera y Servicios San Luis. En el juicio de amparo 576/2026, promovido por Luis Alberto Ascencio Rodríguez, en su carácter de albacea de la sucesión a bienes de Antonio Ascencio Pérez, contra actos de la Junta Local de Conciliación y Arbitraje en esta ciudad , señalando como acto reclamado la resolución de veinte de marzo de dos mil veintiséis, emitida en el incidente de liquidación de sentencia relativo al expediente 538/2007; en virtud de que se agotaron los medios para investigar el domicilio de dicha parte tercero interesada, sin resultados positivos; con",
-      "topics": [
-        "Litigio y amparo"
-      ],
-      "date": "2026-11-09",
-      "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803324"
-    },
-    {
-      "id": "dof-5803294",
-      "title": "Aviso REF:581724",
-      "headline": "Aviso REF:581724",
-      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Juzgado Primero de Distrito en Materia Civil en el Estado de Jalisco, con residencia en Zapopan M9-S M9-OJ1 EDICTO JUZGADO PRIMERO DE DISTRITO EN MATERIA CIVIL EN EL ESTADO DE JALISCO, CON RESIDENCIA EN ZAPOPAN. En el juicio de amparo indirecto 669/2026, promovido por Claudia Carolina Laguna Mejía, se ordena emplazar al tercero interesado Luis Ángel Díaz García, de acuerdo con lo establecido en el artículo 27 fracción III, inciso c) de la Ley de Amparo en vigor, haciéndole saber que cuenta con TREINTA DÍAS contados a partir de la última publicación de edictos, para que comparezca a este Juzgado de Distrito a defender sus derechos y señale domicilio en esta ciudad donde pueda oír y re",
-      "topics": [
-        "Litigio y amparo"
-      ],
-      "date": "2026-11-09",
-      "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803294"
-    },
-    {
-      "id": "dof-5803293",
-      "title": "Aviso REF:582012",
-      "headline": "Aviso REF:582012",
-      "summary": "Servicios de Transportación Aceite y Gas, S .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Servicios de Transportación Aceite y Gas, S.A. de C.V. De conformidad con lo establecido en el artículo 119 fracción XXI de la Ley del Sector Hidrocarburos y el numeral 21.1 de la Directiva de Tarifas, se publica la Lista de Tarifas Máximas Autorizada aplicables al Sistema de Transporte por ducto de Gas Natural de Transportación Aceite y Gas, S.A. de C.V. objeto del Permiso G/25134/TRA/2023, mismas que fueron aprobadas por la Comisión Nacional de Energía mediante oficio número F00.07.UH/108608/2026. LISTA DE TARIFAS MÁXIMAS Cargo por Servicio de Transporte Unidades Importe Servicio en Base Firme Cargo por capacidad Pesos/GJ/Día 8.3373 Cargo por uso Pesos/GJ 0.2779 Servicio en Base Interrum",
-      "topics": [
-        "Fiscal"
-      ],
-      "date": "2026-11-09",
-      "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803293"
-    },
-    {
-      "id": "dof-5803291",
-      "title": "Aviso REF:581944",
-      "headline": "Aviso REF:581944",
-      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Juzgado Primero de Distrito en el Estado de Durango Sección Amparo Pral. 625/2024 Mesa VII \" 2026, Año de Margarita Maza Parada \" EDICTOS TERCERA INTERESADA: ORALIA MORGA VILLAPADUA En cumplimiento a lo ordenado el catorce de octubre de dos mil veintiséis , en el juicio de amparo 625/ 2024 , promovido por J. Guadalupe Rodríguez García, por derecho propio y como albacea de la sucesión testamentaria de Perfecto Rodríguez Morga, de acuerdo a lo dispuesto en el artículo 27, fracción III, inciso b) de la Ley de Amparo, se emplaza a la parte tercera interesada Oralia Morga Villapadua , persona que tiene derecho a la reparación del daño, por medio de edictos ",
-      "topics": [
-        "Fiscal",
-        "Litigio y amparo"
-      ],
-      "date": "2026-11-09",
-      "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803291"
-    },
-    {
-      "id": "dof-5803299",
-      "title": "Aviso REF:582010",
-      "headline": "Aviso REF:582010",
-      "summary": "Estados Unidos Mexicanos .Normal {text-indent:0.0pt;font-size:9.0pt;margin-left:0.0pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, , ,Arial Black,sans-serif,Helvetica,dialog;} Estados Unidos Mexicanos Poder Judicial de la Federación Juzgado Sexto de Distrito en Materia de Amparo Civil, Administrativa y de Trabajo y de Juicios Federales en el Estado de Puebla San Andrés Cholula, Puebla EDICTO TERCEROS INTERESADOS Jorge Velázquez López, Casas Jie y Asociados, Sociedad Anónima de Capital Variable y Blanca Estela Saldaña Galván. En cumplimiento al proveído de nueve de octubre de dos mil veintiséis, dictado en el juicio de amparo indirecto1961/2025, promovido por Banco Multiva , Sociedad Anónima, Institución de Banca Múltiple, Grupo Financiero Multiva por conducto de sus apoderados legales Gerardo Téllez Galicia, María Cristina Flores Vilchis y Marco Eduardo Sánchez Molina, contra acto",
-      "topics": [
-        "Fiscal",
-        "Litigio y amparo"
-      ],
-      "date": "2026-11-09",
-      "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803299"
-    },
-    {
-      "id": "dof-5803337",
-      "title": "Acuerdo General del Pleno del Órgano de Administración Judicial que abroga el similar por el que se regula el Proceso de Evaluación del Desempeño del Personal de Carrera Judicial del Poder Judicial de la Federación.",
-      "headline": "Acuerdo General del Pleno del Órgano de Administración Judicial que abroga el similar por el que se regula el Proceso de Evaluación del Desempeño del Personal de Carrera Judicial del Poder Judicial de la Federación.",
-      "summary": "ACUERDO General del Pleno del Órgano de Administración Judicial que abroga el similar por el que se regula el Proceso de Evaluación del Desempeño del Personal de Carrera Judicial del Poder Judicial de la Federación .ANOTACION {text-indent:0.0pt;text-align:center;font-size:9.0pt;margin-left:0.0pt;margin-bottom:5.05pt;font-family:serif,Times,Times Roman,Times-Roman;margin-top:5.05pt;font-weight:bold;} .Fechas {margin-right:14.4pt;text-indent:0.0pt;text-align:justify;font-size:9.0pt;border-bottom: 0.75pt solid rgb(0,0,0);margin-left:14.4pt;margin-bottom:0.0pt;font-family:serif,Times,Times Roman,Times-Roman;padding-bottom:0.05pt;} .Normal {text-indent:0.0pt;font-size:12.0pt;margin-left:0.0pt;font-family:serif,Times,Times Roman,Times-Roman;} .Texto {text-indent:14.4pt;text-align:justify;font-size:9.0pt;margin-left:0.0pt;margin-bottom:5.05pt;font-family:Tahoma,Arial Unicode MS,Verdana,system, ",
-      "topics": [
-        "Fiscal",
-        "Litigio y amparo"
-      ],
-      "date": "2026-11-09",
-      "source": "DOF",
-      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803337"
+      "url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5803357"
     }
   ],
   "sjf": [],
   "source_status": {
     "dof": "success",
-    "dof_checked_at": "2026-11-09T15:57:37.994133-08:00",
-    "dof_message": "Consulta oficial completada; 38 publicaciones relevantes."
+    "dof_checked_at": "2026-11-10T13:39:21.217765-08:00",
+    "dof_message": "Consulta oficial completada; 107 publicaciones relevantes."
   },
   "source_errors": [],
-  "checked_at": "2026-11-09T15:57:37.994133-08:00"
+  "checked_at": "2026-11-10T13:39:21.217765-08:00"
 }
